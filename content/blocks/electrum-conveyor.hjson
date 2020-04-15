@@ -1,0 +1,12 @@
+type: Conveyor
+name: Shadum conveyor
+description:A conveyor made out of shadum.
+requirements: [
+  titanium/3
+  copper/3
+  lead/3
+  shadum/3
+]
+category: distribution
+speed: 0.24
+research: titanium-conveyor

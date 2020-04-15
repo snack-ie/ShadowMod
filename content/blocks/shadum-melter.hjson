@@ -1,0 +1,27 @@
+type: GenericCrafter
+name: "Shadum melter"
+description: "Melts shadum down for use in crafting."
+liquidCapacity: 50
+outputLiquid: {
+  liquid: molten-shadum
+  amount: 7
+}
+size: 2
+hasLiquids: true
+craftTime: 5
+updateEffect: smeltsmoke
+consumes: {
+  item: shadum
+}
+requirements: [
+  lead/50
+  copper/80
+  silicon/20
+  shadum/10
+]
+category: crafting
+research: kiln
+idleSound: respawning
+idleSoundVolume: 0.5
+
+
