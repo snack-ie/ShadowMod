@@ -1,6 +1,6 @@
 name: "shadow-mod"
-displayName: "[gray] ShadowMod" //what displays in the mod selection menu
-author: "Shadow"
-description: "Um mod simples que adiciona varios [gray]blocos[] novos, [gray]mapas[] e tambem um novo [gray]recurso[]!"
-version: "1.0"
+displayName: "[gray] Shadow[purple]Mod" 
+author: "Pietro303HD"
+description: "Um mod simples que adiciona novos [purple]blocos[], novos [purple]mapas[] e tambem novos [purple]recursos[]!"
+version: "1.03"
 minGameVersion: "103"
