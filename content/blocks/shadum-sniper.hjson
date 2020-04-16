@@ -20,6 +20,6 @@ ammo: {
      status: burning
          }
 }
-ammoPerShoot: 5
+ammoPerShoot: 1
 range: 150
 cooldown: 5
