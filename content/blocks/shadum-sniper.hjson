@@ -19,9 +19,9 @@ shootEffect: burning
 
         consumes: {
         liquid: {
-            liquid: molten-shadum,
-            amount: 5.0,
-             optional: true,
+            liquid: molten-shadum
+            amount: 5.0
+             optional: true
              booster: true
          }
     }
