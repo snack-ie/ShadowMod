@@ -18,8 +18,8 @@ cooldown: 1
 shootEffect: burning
 
         consumes: {
-        liquids: {
-        liquids: [
+        liquid: {
+        liquid: [
          {
             liquid: molten shadum,
             amount": 5.0,
