@@ -8,7 +8,6 @@ requirements: [
 ]
 consumes: {
  item: shadum
- amount: 5
 }
 ammoPerShoot: 1
 range: 100
