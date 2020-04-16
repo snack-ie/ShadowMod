@@ -14,7 +14,7 @@ ammo: {
    type: basicBulletType
      lifetime: 600
      damage: 25
-     speed: 0.1
+     speed: 3
      splashDamageRadius: 2
      splashDamage: 13
      status: burning
