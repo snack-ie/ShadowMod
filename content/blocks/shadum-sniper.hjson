@@ -1,6 +1,7 @@
 type: itemTurret
 name: Shadum Sniper
 description: A simple sniper, that uses Shadum power to shoot in a long distance.
+category: turret
 requirements: [
  shadum/50
  copper/100
