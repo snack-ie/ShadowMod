@@ -1,0 +1,15 @@
+type: turret
+name: Shadum Sniper
+description: A simple sniper, that uses Shadum power to shoot in a long distance.
+requirements: [
+ shadum/50
+ copper/100
+ titanium/125
+]
+consumes: {
+ item: shadum
+}
+ammoPerShoot: 5
+range: 100
+cooldown: 0.5
+shootEffect: burning
