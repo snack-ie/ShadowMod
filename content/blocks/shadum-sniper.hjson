@@ -25,7 +25,7 @@ shootEffect: burning
             amount": 5.0,
              optional: false,
              booster: false
-      
+         }
         ]
     }
     }
