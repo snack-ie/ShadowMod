@@ -1,6 +1,6 @@
 name: "shadow-mod"
-displayName: "[gray] Shadow[purple]Mod" 
+displayName: "[purple] Shadow[gray]Mod" 
 author: "Pietro303HD"
-description: "Um mod simples que adiciona novos [purple]blocos[], novos [purple]mapas[] e tambem novos [purple]recursos[]!"
+description: "A simple mod that adds new [purple]blocks[], new [purple]maps[] and also new [purple]resources[]!"
 version: "1.03"
 minGameVersion: "103"
