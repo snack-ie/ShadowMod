@@ -13,13 +13,13 @@ ammo: {
  shadum: {
    type: basicBulletType
      lifetime: 600
-     damage: 25
+     damage: 87
      speed: 3
      splashDamageRadius: 2
-     splashDamage: 13
+     splashDamage: 46
      status: burning
          }
 }
 ammoPerShoot: 5
 range: 150
-cooldown: 1.5
+cooldown: 5
