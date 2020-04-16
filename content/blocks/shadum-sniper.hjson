@@ -12,6 +12,6 @@ ammo: {
  shadum: standardDense
 }
 ammoPerShoot: 5
-range: 500
+range: 150
 cooldown: 1
 shootEffect: burning
