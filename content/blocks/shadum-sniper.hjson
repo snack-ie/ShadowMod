@@ -6,11 +6,10 @@ requirements: [
  copper/100
  titanium/125
 ]
-consumes: {
- item: shadum
+ammo: {
+ shadum: standardDense
 }
 ammoPerShoot: 1
 range: 100
 cooldown: 0.5
 shootEffect: burning
-ammo: standardDense
