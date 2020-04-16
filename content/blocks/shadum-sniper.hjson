@@ -23,8 +23,8 @@ shootEffect: burning
          {
             liquid: molten shadum,
             amount": 5.0,
-             optional: false,
-             booster: false
+             optional: true,
+             booster: true
          }
         ]
     }
