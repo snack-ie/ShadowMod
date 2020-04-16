@@ -3,6 +3,7 @@ name: Shadum Sniper
 description: A simple sniper, that uses Shadum power to shoot in a long distance.
 category: turret
 size: 2
+hasLiquids: true
 requirements: [
  shadum/50
  copper/100
@@ -15,3 +16,16 @@ ammoPerShoot: 5
 range: 150
 cooldown: 1
 shootEffect: burning
+
+        consumes: {
+        liquids: {
+        liquids: [
+         {
+            liquid: molten shadum,
+            amount": 5.0,
+             optional: false,
+             booster: false
+      
+        ]
+    }
+    }
