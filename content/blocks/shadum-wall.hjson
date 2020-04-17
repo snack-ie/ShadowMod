@@ -1,0 +1,7 @@
+type: wall
+name: Shadum wall
+description: A wall made out of Shadum.
+health: 1400
+requirements: [
+ shadum/6
+]
