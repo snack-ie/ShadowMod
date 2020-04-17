@@ -1,11 +1,11 @@
-type: FlyingUnit
+type: GroundUnit
 name: shocker
-description: a weak unit that shock the enemys with powerfulls lightnings
+description: a strong unit that shock the enemys with powerfulls lightnings
 speed: 0.1
-health: 150
+health: 700
 weapon: {
    name: taser
    bullet: lightning
    alternate: true
-   shotDelay: 100
+   shotDelay: 60
 }
