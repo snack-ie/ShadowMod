@@ -5,5 +5,5 @@ description: A large wall made out of Shadum.
 health: 4300
 size: 2
 requirements: [
- shadum/10
+ shadum/24
 ]
