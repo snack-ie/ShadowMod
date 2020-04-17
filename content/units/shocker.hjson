@@ -1,5 +1,8 @@
 type: GroundUnit
+speed: 0.1
 weapon: {
    name: taser
    bullet: lightning
+   alternate: true
+   shotDelay: 60
 }
