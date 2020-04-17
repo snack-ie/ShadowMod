@@ -1,0 +1,5 @@
+type: GroundUnit
+weapon: {
+   name: taser
+   bullet: lightning
+}
