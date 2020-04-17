@@ -1,7 +1,8 @@
 type: wall
-name: Shadum wall
+category: defense
+name: Shadum Wall
 description: A wall made out of Shadum.
-health: 1400
+health: 1350
 requirements: [
  shadum/6
 ]
