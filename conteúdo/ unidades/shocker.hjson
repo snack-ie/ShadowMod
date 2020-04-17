@@ -1,5 +1,8 @@
 type: GroundUnit
+name: shocker
+description: a strong unit that shock the enemys with powerfulls lightning
 speed: 0.1
+health: 700
 weapon: {
    name: taser
    bullet: lightning
