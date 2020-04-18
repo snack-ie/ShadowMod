@@ -1,0 +1,40 @@
+name: interceptor
+description: a light interceptor ship
+flying: true
+drillPower: 3
+mineSpeed: 0.8
+speed: 3
+drag: 0.05
+mass: 4
+health: 100
+itemCapacity: 15
+engineColor: 00e7ff
+cellTrnsY: 1
+buildPower: 1
+weapon: {
+  name: swarmer
+  length: 0
+  reload: 70
+  width: 9
+  alternate: true
+  recoil: 3
+  shake: 2
+  shots: 4
+  spacing: 0
+  shotDelay: 1
+  ejectEffect: shellEjectBig
+  shootSound: shootBig
+  bullet: {
+    type: MissileBulletType
+	bulletWidth: 9
+	bulletHeight: 13
+	lifetime: 128
+	speed: 5
+	damage: 80
+	frontColor: 00e7ff
+	backColor: 00e7ff
+	homingPower: 1
+	homingRange: 250
+	}
+  }
+}
