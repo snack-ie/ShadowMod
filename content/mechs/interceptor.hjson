@@ -1,14 +1,15 @@
 name: interceptor
 description: a light interceptor ship
 flying: true
-drillPower: 3
+drillPower: 2
 mineSpeed: 0.8
-speed: 3
+maxSpeex: 5
+speed: 0.5
 drag: 0.05
 mass: 4
 health: 100
-itemCapacity: 15
-engineColor: 00e7ff
+itemCapacity: 30
+engineColor: a488eb
 cellTrnsY: 1
 buildPower: 1
 weapon: {
@@ -23,7 +24,7 @@ weapon: {
   spacing: 0
   shotDelay: 1
   ejectEffect: shellEjectBig
-  shootSound: shootBig
+  shootSound: artillery
   bullet: {
     type: MissileBulletType
 	bulletWidth: 9
@@ -31,9 +32,12 @@ weapon: {
 	lifetime: 128
 	speed: 5
 	damage: 80
-	frontColor: 00e7ff
-	backColor: 00e7ff
-	homingPower: 1
-	homingRange: 250
+	frontColor: a488eb
+	backColor: 8b73c7
+        trailColor:cb00ff
+	homingPower: 0.3
+	homingRange: 150
+        hitEffect: blastExplosion
+        despawnEffect: blastExplosion
 	}
   }
