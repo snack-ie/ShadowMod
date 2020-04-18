@@ -8,9 +8,11 @@ outputLiquid: {
 }
 size: 3
 hasLiquids: true
-craftTime: 5
+hasPower: true
+craftTime: 50
 updateEffect: smeltsmoke
 consumes: {
+  power: 0.5
   item: shadum
 }
 requirements: [
