@@ -1,6 +1,6 @@
 type: MechPad
 name: interceptor ship pad
-mech: interceptor-ship
+mech: interceptor
 description: Provides transformation into a interceptor-type fighter ship equipped with swarmers.
 size: 3
 consumes: {
