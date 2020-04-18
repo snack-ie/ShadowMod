@@ -1,0 +1,27 @@
+type: GenericSmelter
+name: alloy renconstructor
+description: Reconstructs the shadum alloy from the molten shadum.
+liquidCapacity: 50
+size: 2
+hasPower: true
+hasLiquids: true
+craftTime: 100
+updateEffect: smeltsmoke
+consumes: {
+  power: 0.7
+  liquid: {
+    liquid: molten-shadum
+    amount: 3
+  }
+}
+requirements: [
+  lead/50
+  thorium/80
+  silicon/60
+  shadum/50
+]
+category: crafting
+research: shadum-melter
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: shadum-alloy/1
