@@ -29,6 +29,7 @@
 	lifetime: 64
 	speed: 2.5
 	damage: 10
-	frontColor: 
-	backColor: 
+	frontColor: a488eb
+	backColor: cc00ff
   }
+}
