@@ -19,10 +19,9 @@
   recoil: 3
   shake: 2
   shots: 1
-  spacing: 5
+  spacing: 6
   shotDelay: 1
   ejectEffect: shellEjectSmall
-  shootSound: shootSmall
    bullet: {
 	bulletWidth: 5
 	bulletHeight: 9
