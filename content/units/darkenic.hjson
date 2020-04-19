@@ -1,16 +1,16 @@
 
-	type: groundUnit
-	name: darkenic
-	description: A weak unit.
- maxVelocity: 0.3
-	speed: 0.1
- drag: 0.3
- hitsize: 10
- mass: 1.75
-	flying: false
-	health: 60
-	range: 100
-	weapon: {
+  type: groundUnit
+  name: darkenic
+  description: A weak unit.
+  maxVelocity: 0.3
+  speed: 0.1
+  drag: 0.3
+  hitsize: 10
+  mass: 1.75
+  flying: false
+  health: 60
+  range: 100
+  weapon: {
   name: mini mini-gun
   length: 3
   reload: 30
@@ -23,7 +23,7 @@
   shotDelay: 1
   ejectEffect: shellEjectSmall
   shootSound: shootSmall
-  bullet: {
+   bullet: {
 	bulletWidth: 5
 	bulletHeight: 9
 	lifetime: 64
