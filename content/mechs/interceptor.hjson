@@ -1,5 +1,5 @@
-name: interceptor
-description: a light interceptor ship with high speed and powerful swarmers
+name: Interceptor
+description: A light interceptor ship with high speed and powerful swarmers
 flying: true
 drillPower: 2
 mineSpeed: 0.8
