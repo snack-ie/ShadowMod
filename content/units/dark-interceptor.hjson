@@ -1,0 +1,44 @@
+  type: FlyingUnit
+ name: dark interceptor
+ description: a stealth fighter with high speed and damage, can pass through defenses without being hit
+ drag: 0.05
+ speed: 0.35
+ mass: 1
+ hitsize: 1
+ health": 50
+ flying: true
+ rotateWeapon: true
+ engineOffset: 8
+ engineSize: 0.01
+ rotatespeed: 7
+ baseRotateSpeed: 7
+ shootCone: 360
+  weapon: {
+  name: swarmer
+  length: 0
+  reload: 70
+  width: 9
+  alternate: true
+  recoil: 3
+  shake: 2
+  shots: 4
+  spacing: 0
+  shotDelay: 1
+  ejectEffect: shellEjectBig
+  shootSound: artillery
+  bullet: {
+    type: MissileBulletType
+	bulletWidth: 9
+	bulletHeight: 13
+	lifetime: 100
+	speed: 5
+	damage: 40
+	frontColor: a488eb
+	backColor: 8b73c7
+	trailColor: cb00ff
+	homingPower: 0.3
+	homingRange: 100
+	hitEffect: blastExplosion
+	despawnEffect: blastExplosion
+	}
+  }
