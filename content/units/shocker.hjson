@@ -4,11 +4,12 @@ description: a strong unit that shock the enemys with powerfulls lightnings
 speed: 0.1
 drag: 0.2
 health: 700
+reload: 80
+shotDelay: 1
+shots: 1
 weapon: {
    name: taser
    bullet: lightning
    alternate: true
-   reload: 80
-   shotDelay: 2.5
    shootSound: spark
 }
