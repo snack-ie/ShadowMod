@@ -15,11 +15,11 @@ requirements: [
   }
   {
     type: Unlock
-    block: silicon smelter
+    block: silicon-smelter
   }
   {
     type: Unlock
-    block: pneumatic drill
+    block: pneumatic-drill
   }
 ]
 resources: [
