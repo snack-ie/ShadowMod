@@ -2,6 +2,7 @@
  name: dark interceptor
  description: a stealth fighter with high speed and damage, can pass through defenses without being hit
  drag: 0.05
+ maxSpeed: 6
  speed: 0.35
  mass: 1
  hitsize: 1
