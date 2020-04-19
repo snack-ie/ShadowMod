@@ -1,7 +1,7 @@
 type: GroundUnit
 name: shaduner
-description: A well-armored unit that fires shadum frag-rockets.
-health: 400
+description: A little well-armored unit that fires shadum frag-rockets.
+health: 350
 speed: 0.12
 drag: 0.4
 mass: 5
