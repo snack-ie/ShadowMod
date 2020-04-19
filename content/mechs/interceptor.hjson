@@ -5,8 +5,8 @@ drillPower: 2
 mineSpeed: 0.8
 maxSpeex: 5
 speed: 0.5
-drag: 0.15
-mass: 1
+drag: 0.03
+mass: 10
 health: 100
 itemCapacity: 30
 engineColor: a488eb
@@ -31,7 +31,7 @@ weapon: {
 	bulletHeight: 13
 	lifetime: 128
 	speed: 5
-	damage: 80
+	damage: 50
 	frontColor: a488eb
 	backColor: 8b73c7
         trailColor:cb00ff
