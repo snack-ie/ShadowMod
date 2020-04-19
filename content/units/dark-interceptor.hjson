@@ -33,7 +33,7 @@
 	bulletHeight: 13
 	lifetime: 100
 	speed: 5
-	damage: 40
+	damage: 80
 	frontColor: a488eb
 	backColor: 8b73c7
 	trailColor: cb00ff
