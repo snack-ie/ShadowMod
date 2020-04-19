@@ -1,17 +1,17 @@
 name: interceptor
-description: a light interceptor ship
+description: a light interceptor ship with high speed and powerful swarmers
 flying: true
 drillPower: 2
 mineSpeed: 0.8
-maxSpeex: 5
+maxSpeex: 8
 speed: 0.5
-drag: 0.05
-mass: 4
+drag: 0.15
+mass: 1
 health: 100
 itemCapacity: 30
 engineColor: a488eb
 cellTrnsY: 1
-buildPower: 1
+buildPower: 2
 weapon: {
   name: swarmer
   length: 0
@@ -36,7 +36,7 @@ weapon: {
 	backColor: 8b73c7
         trailColor:cb00ff
 	homingPower: 0.3
-	homingRange: 150
+	homingRange: 500
         hitEffect: blastExplosion
         despawnEffect: blastExplosion
 	}
