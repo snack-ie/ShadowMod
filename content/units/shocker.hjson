@@ -8,6 +8,6 @@ weapon: {
    name: taser
    bullet: lightning
    alternate: true
-   shotDelay: 350
+   shotDelay: 1500
    shootSound: spark
 }
