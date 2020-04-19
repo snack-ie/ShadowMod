@@ -1,5 +1,5 @@
 type: GenericSmelter
-name: alloy renconstructor
+name: Alloy Reconstructor
 description: Reconstructs the shadum alloy from the molten shadum.
 liquidCapacity: 50
 size: 3
