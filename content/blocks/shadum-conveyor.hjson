@@ -1,6 +1,6 @@
 type: Conveyor
 name: Shadum conveyor
-description:A conveyor made out of shadum.
+description: A conveyor made out of shadum.
 requirements: [
   titanium/3
   copper/3

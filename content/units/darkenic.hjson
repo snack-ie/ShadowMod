@@ -1,6 +1,6 @@
 
   type: groundUnit
-  name: darkenic
+  name: Darkenic
   description: A weak unit.
   maxVelocity: 0.3
   speed: 0.1
