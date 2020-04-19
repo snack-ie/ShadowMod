@@ -3,7 +3,7 @@ description: a light interceptor ship with high speed and powerful swarmers
 flying: true
 drillPower: 2
 mineSpeed: 0.8
-maxSpeex: 8
+maxSpeex: 5
 speed: 0.5
 drag: 0.15
 mass: 1
