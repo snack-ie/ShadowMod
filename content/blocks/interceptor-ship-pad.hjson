@@ -1,5 +1,5 @@
 type: MechPad
-name: interceptor ship pad
+name: Interceptor Ship Pad
 mech: interceptor
 description: Provides transformation into a interceptor-type fighter ship equipped with swarmers.
 size: 3
@@ -11,6 +11,7 @@ requirements: [
   silicon/375
   titanium/250
   shadum/250
+  shadum-alloy/145
 ]
 category: upgrade
 research: javelin-ship-pad
