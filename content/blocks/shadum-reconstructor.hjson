@@ -10,7 +10,7 @@ consumes: {
   power: 1
   items: {
     items: [
-      shadow-shards/3
+      shadow-shard/3
     ]
   }
 }
