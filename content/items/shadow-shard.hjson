@@ -1,0 +1,5 @@
+type: resources
+name: shadum shard
+description: A piece of shadow, can be used to craft the shadum
+cost: 2.5
+color: dcd16b
