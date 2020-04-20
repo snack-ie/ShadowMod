@@ -9,7 +9,7 @@ craftEffect: smeltsmoke
 consumes: {
   power: 1.25
 }
-outputItem: shadow shard/1
+outputItem: shadow-shard/1
 requirements: [
   copper/80
   lead/60
@@ -17,6 +17,6 @@ requirements: [
   phase-fabric/20
 ]
 category: production
-research: water-extractor
+research: oil-extractor
 idleSound: respawning
 idleSoundVolume: 0.5
