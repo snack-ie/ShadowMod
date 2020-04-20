@@ -1,0 +1,22 @@
+type: GenericSmelter
+name: Shadow collector
+description: use power to collect shadow shards from the nothing
+size: 2
+hasPower: true
+hasItems: true
+craftTime: 400
+craftEffect: smeltsmoke
+consumes: {
+  power: 1.25
+}
+outputItem: shadow shard/1
+requirements: [
+  copper/80
+  lead/60
+  silicon/40
+  phase-fabric/20
+]
+category: production
+research: water-extractor
+idleSound: respawning
+idleSoundVolume: 0.5

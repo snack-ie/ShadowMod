@@ -1,0 +1,32 @@
+type: GenericSmelter
+
+size: 4
+solid: true
+hasItems: true
+hasPower: true
+itemCapacity: 30
+
+craftTime: 60
+craftEffect: smeltsmoke
+flameColor: ffef99
+
+requirements: [
+    copper/400
+    lead/300
+    silicon/100
+    shadum-alloy/100
+]
+
+consumes: {
+    power: 7.5
+    items: {
+        items: [
+            sand/15
+        ]
+    }
+}
+
+outputItem: silicon/10
+
+category: crafting
+research: silicon-smelter

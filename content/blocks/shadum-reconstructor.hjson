@@ -1,0 +1,27 @@
+type: GenericSmelter
+name: Shadum reconstructor
+description: Reconstruct shadum mixing shadow shards.
+size: 2
+hasPower: true
+hasItems: true
+craftTime: 60
+updateEffect: smeltsmoke
+consumes: {
+  power: 1
+  items: {
+    items: [
+      shadow-shards/3
+    ]
+  }
+}
+requirements: [
+  lead/50
+  thorium/80
+  silicon/60
+  phase-fabric/20
+]
+category: crafting
+research: silver-crucible
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: shadum/1
