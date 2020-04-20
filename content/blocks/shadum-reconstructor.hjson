@@ -21,7 +21,7 @@ requirements: [
   phase-fabric/20
 ]
 category: crafting
-research: silver-crucible
+research: shadow-colletor
 idleSound: respawning
 idleSoundVolume: 0.5
 outputItem: shadum/1
