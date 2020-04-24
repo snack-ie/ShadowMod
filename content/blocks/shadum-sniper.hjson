@@ -22,5 +22,5 @@ ammo: {
          }
 }
 ammoPerShoot: 1
-range: 150
+range: 600
 reload: 60
