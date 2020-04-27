@@ -13,9 +13,9 @@ requirements: [
 ammo: {
  shadum: {
    type: basicBulletType
-     lifetime: 3000
+     lifetime: 500
      damage: 87
-     speed: 5
+     speed: 15
      splashDamageRadius: 2
      splashDamage: 46
      status: burning
@@ -24,3 +24,4 @@ ammo: {
 ammoPerShoot: 1
 range: 600
 reload: 60
+research: salvo
