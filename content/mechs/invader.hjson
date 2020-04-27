@@ -1,5 +1,5 @@
 name: invader
-description: A strong long range assault fighter.
+description: A strong long range assault ship.
 speed: 1.5
 mineSpeed: 3
 drillPower: 3
@@ -27,4 +27,5 @@ weapon: {
 	frontColor: cc00ff
 	backColor: a488eb
 	trailColor: a488eb
+ }
 }
