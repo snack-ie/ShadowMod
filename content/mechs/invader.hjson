@@ -1,5 +1,5 @@
 name: invader
-description: A strong long range assault ship.
+description: A long range assault ship.
 speed: 1.5
 mineSpeed: 3
 drillPower: 3
@@ -22,10 +22,9 @@ weapon: {
    bulletWidth: 9
 	bulletHeight: 13
 	lifetime: 100
-	speed: 4
+	speed: 2
 	damage: 39
-	frontColor: cc00ff
-	backColor: a488eb
-	trailColor: a488eb
+	frontColor: ff7b00
+	backColor: ffea00
  }
 }
