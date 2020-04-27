@@ -1,0 +1,30 @@
+name: invader
+description: A strong long range assault fighter.
+speed: 1.5
+mineSpeed: 3
+drillPower: 3
+drag: 0.05
+masd: 4
+buildPower: 3
+engineColor: a488eb
+flying: true
+health: 300
+weaponOffsetX: 1
+weapon: {
+  name: artillery
+  length: 1.5
+  reload: 100
+  shake: 0.5
+  shoots: 1
+  alternate: true
+  bullet: {
+   type: artilleryBulletType
+   bulletWidth: 9
+	bulletHeight: 13
+	lifetime: 100
+	speed: 4
+	damage: 39
+	frontColor: cc00ff
+	backColor: a488eb
+	trailColor: a488eb
+}
