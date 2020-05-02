@@ -25,6 +25,7 @@
     { "item": "lead", "amount": 100 },
     { "item": "silicon", "amount": 90 },
     { "item": "shadum-alloy", "amount": 50 },
+   ],
   "category": "turret",
-  "research": "lancer",
+  "research": "lancer"
 }
