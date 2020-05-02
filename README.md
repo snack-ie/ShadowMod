@@ -1,3 +1,3 @@
 # ShadowMod
-It's my mod 
-# testing
+`ShadowMod` is a mod made for Mindustry by Anuke.
+## testimg
