@@ -1,0 +1,34 @@
+name: Spore Hills
+description: No description
+loadout: basicNucleus
+startingItems: [
+  copper/200
+  lead/200
+  graphite/100
+]
+conditionWave: 10
+launchPeriod: 10
+requirements: [
+  {
+    type: ZoneWave
+    zone: first-contact
+    wave: 20
+  }
+  {
+    type: Unlock
+    block: alloy-reconstructor
+  }
+  {
+    type: Unlock
+    block: thorium-extractor
+  }
+]
+resources: [
+  copper
+  lead
+  coal
+  sand
+  shadum
+  titanium
+  scrap
+]
