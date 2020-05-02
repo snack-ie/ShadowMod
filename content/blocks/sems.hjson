@@ -1,0 +1,37 @@
+type: itemTurret
+name: S.E.M.S
+description: Shadum EletroMagnetic Sniper. A upgrade of the shadum sniper with high damage.
+health: 1300
+category: turret
+size: 3
+hasLiquids: true
+requirements: [
+ shadum-alloy/50
+ thorium/100
+ copper/100
+ plastanium/125
+]
+ammo: {
+ shadum-alloy: {
+   type: basicBulletType
+     lifetime: 500
+     damage: 800
+     speed: 30
+     splashDamageRadius: 1
+     splashDamage: 92
+     status: burning
+         }
+ shadum: {
+   type: basicBulletType
+     lifetime: 500
+     damage: 400
+     speed: 30
+     splashDamageRadius: 1
+     splashDamage: 92
+     status: burning
+         }
+}
+ammoPerShoot: 3
+range: 1200
+reload: 90
+research: shadum-sniper
