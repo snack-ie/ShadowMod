@@ -1,5 +1,5 @@
   type: Revenant
-	name: leviathan
+	name: Leviathan
   description: It's an airbone fortres equiped with the weapon S.E.M.M.G
   drag: 0.15
 	speed: 0.01
@@ -33,7 +33,7 @@
       speed: 15
       damage: 300
       bulletHeight: 15
-      lifetime: 1200
+      lifetime: 100
       backColor: ffffff
       frontColor: ffeedd
       hitEffect: blastExplosion
