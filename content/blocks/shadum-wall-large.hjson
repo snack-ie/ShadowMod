@@ -4,6 +4,7 @@ name: Large Shadum wall
 description: A large wall made out of Shadum.
 health: 4300
 size: 2
+research: shadum-wall
 requirements: [
  shadum/24
 ]
