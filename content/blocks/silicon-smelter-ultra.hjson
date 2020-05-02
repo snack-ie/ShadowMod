@@ -1,5 +1,6 @@
+name: Silicon smelter ultra
 type: GenericSmelter
-
+description: The ultimate silicon smelter
 size: 4
 solid: true
 hasItems: true
@@ -18,7 +19,7 @@ requirements: [
 ]
 
 consumes: {
-    power: 7.5
+    power: 8
     items: {
         items: [
             sand/15
