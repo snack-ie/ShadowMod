@@ -1,6 +1,6 @@
 type: GenericSmelter
 name: Shadum reconstructor
-description: Reconstruct shadum mixing shadow shards.
+description: Reconstruct shadum mixing shadum shards.
 size: 2
 hasPower: true
 hasItems: true
@@ -10,7 +10,7 @@ consumes: {
   power: 1
   items: {
     items: [
-      shadow-shard/3
+      shadum-shard/3
     ]
   }
 }
