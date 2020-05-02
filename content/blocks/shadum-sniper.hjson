@@ -13,9 +13,9 @@ requirements: [
 ammo: {
  shadum: {
    type: basicBulletType
-     lifetime: 500
+     lifetime: 250
      damage: 87
-     speed: 15
+     speed: 30
      splashDamageRadius: 2
      splashDamage: 46
      status: burning
