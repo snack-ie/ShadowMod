@@ -4,7 +4,7 @@ description: use power to collect shadum shards from the nothing
 size: 2
 hasPower: true
 hasItems: true
-craftTime: 400
+craftTime: 100
 craftEffect: smeltsmoke
 consumes: {
   power: 1.25
