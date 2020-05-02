@@ -16,12 +16,11 @@ consumes: {
 }
 requirements: [
   lead/50
-  thorium/80
+  titanium/80
   silicon/60
-  phase-fabric/20
 ]
 category: crafting
 research: shadow-collector
 idleSound: respawning
 idleSoundVolume: 0.5
-outputItem: shadum/1
+outputItem: shadum/3
