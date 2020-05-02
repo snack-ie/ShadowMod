@@ -1,24 +1,24 @@
   type: Revenant
-	name": leviathan
-  description": It's an airbone fortres equiped with the weapon S.E.M.M.G
-  drag": 0.15,
-	speed: 0.01,
-	mass: 80,
+	name: leviathan
+  description: It's an airbone fortres equiped with the weapon S.E.M.M.G
+  drag: 0.15
+	speed: 0.01
+	mass: 80
 	hitsize: 35
 	health: 24000
    flying: true
-	rotateWeapon": true,
-	engineOffset": 35,
-	engineSize": 20,
-	rotatespeed": 0.01,
-	baseRotateSpeed": 0.02,
-	shootCone": 30,
-	weapon": {
-		name": S.E.M.M.G
-		length": 5,
-		width": 15,
-		reload": 100
-		shake": 4,
+	rotateWeapon: true
+	engineOffset: 35
+	engineSize: 20
+	rotatespeed: 0.01
+	baseRotateSpeed: 0.02
+	shootCone: 30
+	weapon: {
+		name: S.E.M.M.G
+		length: 5
+		width: 15
+		reload: 100
+		shake: 4
     shots: 5
     shootcone: 0
     shotDelay: 1
