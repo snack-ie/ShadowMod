@@ -1,6 +1,6 @@
 type: GenericCrafter
 name: Shadow collector
-description: use power to collect shadow shards from the nothing
+description: use power to collect shadum shards from the nothing
 size: 2
 hasPower: true
 hasItems: true
@@ -9,7 +9,7 @@ craftEffect: smeltsmoke
 consumes: {
   power: 1.25
 }
-outputItem: shadow-shard/1
+outputItem: shadum-shard/1
 requirements: [
   copper/80
   lead/60
