@@ -3,3 +3,4 @@ name: Shadum
 description: A rare ore, made by solidifying the shadows
 cost: 2.5
 color: a488eb
+hardness: 3
