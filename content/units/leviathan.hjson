@@ -31,7 +31,7 @@
 		type: BasicBulletType
       bulletWidth: 25
       speed: 15
-      damage: 500
+      damage: 300
       bulletHeight: 15
       lifetime: 1200
       backColor: ffffff
