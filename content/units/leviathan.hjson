@@ -28,11 +28,11 @@
     shootSound: artillery
 		bullet: {
 		type: BasicBulletType
-      bulletWidth: 5
+      bulletWidth: 25
       speed: 15
       damage: 500
-      bulletHeight: 3
-      bulletShrink: 5
+      bulletHeight: 15
+      bulletShrink: 25
       lifetime: 1200
       backColor: ffffff
       frontColor: ffeedd
