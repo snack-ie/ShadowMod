@@ -4,8 +4,8 @@
   description: A weak unit.
   maxVelocity: 0.3
   speed: 0.1
-  drag: 0.15
-  hitsize: 10
+  drag: 0.05
+  hitsize: 5
   mass: 1.75
   flying: false
   health: 60
