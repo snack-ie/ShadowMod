@@ -17,13 +17,14 @@
 		name: S.E.M.M.G
 		length: 5
 		width: 15
-		reload: 100
+		reload: 300
 		shake: 4
+                range: 1000
     shots: 10
     shootcone: 0
     shotDelay: 1
 		alternate: true
-		inacuraccy: 0
+		inacuraccy: 10
     spacing: 0
     shootSound: artillery
 		bullet: {
@@ -32,7 +33,6 @@
       speed: 15
       damage: 500
       bulletHeight: 15
-      bulletShrink: 25
       lifetime: 1200
       backColor: ffffff
       frontColor: ffeedd
