@@ -1,0 +1,22 @@
+name: Darkenic Factory
+description: Makes basic units
+type: UnitFactory
+unitType: darkenic
+size: 2
+produceTime: 400
+maxSpawn: 6
+consumes: {
+  power: 0.5
+  items: {
+    items: [
+      shadum/10
+    ]
+  }
+}
+category: units
+research: dagger-factory
+requirements: [
+  copper/200
+  lead/150
+  shadum/300
+]
