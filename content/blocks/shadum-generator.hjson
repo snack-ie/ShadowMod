@@ -4,8 +4,8 @@ description: Produces power from shadum.
 size: 2
 hasPower: true
 hasItems: true
-itemDuration: 30
-powerProduction: 3.5
+itemDuration: 100
+powerProduction: 5
 consumes: {
   items: {
     items: [
