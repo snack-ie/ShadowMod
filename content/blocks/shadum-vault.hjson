@@ -1,0 +1,14 @@
+name: Electrum Vault
+description: A better vault maded of shadum.
+type: Vault
+itemCapacity: 4000
+hasItems: true
+health: 3000
+size: 3
+requirements: [
+  shadum-alloy/20
+  titanium/200
+  thorium/40
+]
+category: effect
+research: vault
