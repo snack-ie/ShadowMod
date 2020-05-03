@@ -5,7 +5,7 @@ size: 2
 hasPower: true
 hasItems: true
 itemDuration: 100
-powerProduction: 10.1
+powerProduction: 20
 consumes: {
   items: {
     items: [
