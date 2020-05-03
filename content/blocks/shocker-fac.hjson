@@ -1,7 +1,7 @@
 name: Shocker Factory
 description: Makes the unit shocker, a too much powerfull unit.
 type: UnitFactory
-unitType: shaduner
+unitType: shocker
 size: 4
 produceTime: 3200
 maxSpawn: 3
