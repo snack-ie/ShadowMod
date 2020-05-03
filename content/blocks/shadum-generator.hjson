@@ -1,0 +1,23 @@
+type: SingleTypeGenerator
+name: Shadum generator
+description: Produces power from shadum.
+size: 2
+hasPower: true
+hasItems: true
+itemDuration: 30
+powerProduction: 3.5
+consumes: {
+  items: {
+    items: [
+      shadum/1
+    ]
+    optional: true
+  }
+}
+requirements: [
+  titanium/80
+  silicon/40
+  shadum-alloy/50
+]
+category: power
+research: thermal-generator

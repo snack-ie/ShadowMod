@@ -1,0 +1,25 @@
+name: Interceptor Factory
+description: Makes the fighter "dark interceptor", a faster fighter with swarmers
+type: UnitFactory
+unitType: shaduner
+size: 3
+produceTime: 1800
+maxSpawn: 5
+consumes: {
+  power: 0.7
+  items: {
+    items: [
+      shadum-alloy/50
+      silicon/20
+    ]
+  }
+}
+category: units
+research: shaduner-fac
+requirements: [
+  copper/200
+  lead/150
+  shadum-alloy/400
+  silicon/50
+  titanium/100
+]
