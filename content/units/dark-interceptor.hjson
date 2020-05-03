@@ -1,6 +1,6 @@
   type: FlyingUnit
  name: Dark interceptor
- description: a stealth fighter with high speed and damage, can pass through defenses without being hit
+ description: A fighter with high speed and damage, can pass through some defenses without being hit
  drag: 0.05
  maxSpeed: 6
  speed: 0.35
@@ -33,7 +33,7 @@
 	bulletHeight: 13
 	lifetime: 100
 	speed: 5
-	damage: 80
+	damage: 50
 	frontColor: a488eb
 	backColor: 8b73c7
 	trailColor: cb00ff
