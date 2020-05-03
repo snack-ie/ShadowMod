@@ -27,7 +27,7 @@ weapon: {
 	bulletHeight: 13
 	lifetime: 64
 	speed: 2.5
-	damage: 20
+	damage: 19
 	frontColor: a488eb
 	backColor: 8b73c7
 	homingPower: 0.5
@@ -38,7 +38,7 @@ weapon: {
 	  lifetime: 24
 	  speed: 2.5
 	  splashDamageRadius: 10
-	  splashDamage: 2
+	  splashDamage: 3
 	  frontColor: a488eb
 	  backColor: 8b73c7
 	  homingPower: 0.5
