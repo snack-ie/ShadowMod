@@ -1,0 +1,16 @@
+name: Prototype Number 1
+description: Under development
+type: MechPad
+mech: prototype-n1
+size: 6
+consumes: {
+  power: 3
+}
+category: upgrade
+requirements: [
+  surge-alloy/300
+  shadum-alloy/300
+  silicon/100
+  graphite/100
+  titanium/200
+]
