@@ -1,6 +1,6 @@
 {
   "type": "ChargeTurret",
-  "name": "Turret L.A.T.S",
+  "name": "Lancer A.T.S",
   "description": "A Lancer with an Advanced Targeting Sistem",
   "range": 185,
   "chargeTime": 0.01,
