@@ -1,7 +1,7 @@
 name: Interceptor Factory
 description: Makes the fighter "dark interceptor", a faster fighter with swarmers
 type: UnitFactory
-unitType: shaduner
+unitType: dark-interceptor
 size: 3
 produceTime: 1800
 maxSpawn: 5
