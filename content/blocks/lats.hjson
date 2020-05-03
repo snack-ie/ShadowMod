@@ -11,6 +11,7 @@
   "reload": 70,
   "cooldown": 0.01,
   "powerUse": 4.5,
+  "damage": 200,
   "shootEffect": "lancerLaserShoot",
   "smokeEffect": "lancerLaserShootSmoke",
   "chargeEffect": "lancerLaserCharge",
