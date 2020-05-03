@@ -1,0 +1,25 @@
+type: SingleTypeGenerator
+name: Phase generator
+description: Produces power from phase fabric.
+size: 2
+hasPower: true
+hasItems: true
+itemDuration: 100
+powerProduction: 10.1
+consumes: {
+  items: {
+    items: [
+      phase-fabric/1
+    ]
+    optional: true
+  }
+}
+requirements: [
+  titanium/200
+  silicon/40
+  shadum-alloy/70
+  phase-fabric/50
+  thorium/100
+]
+category: power
+research: shadum-generator
