@@ -1,0 +1,29 @@
+{
+  "type": "OverdriveProjector",
+  "name": "Advanced Overdrive Projector",
+  "consumes": {
+    "power": 6,
+    "items": {
+      "items": [
+        { "item": "phase-fabric", "amount": 1 },
+      ],
+      "optional": true,
+      "booster": true
+    }
+  },
+  "size": 2,
+  "range": 200,
+  "speedBoost": 3.0,
+  "speedBoostPhase": 3.0,
+	"category": "effect",
+	"research": "overdrive-projector",
+  "requirements": [
+    { "item": "lead", "amount": 150 },
+    { "item": "titanium", "amount": 100 },
+    { "item": "silicon", "amount": 100 },
+    { "item": "plastanium", "amount": 50 },
+    { "item": "shadum alloy", "amount": 200 },
+    { "item": "phase-fabric", "amount": 10 },
+    { "item": "surge-alloy", "amount": 30 }
+  ]
+}
