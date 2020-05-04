@@ -1,6 +1,6 @@
   type: Revenant
 	name: Leviathan
-  description: It's an airbone fortres equiped with an amplified S.E.M.M.G
+  description: It's an airbone fortres equiped with an amplified long range S.E.M.M.G
   drag: 0.15
 	speed: 0.01
 	mass: 80
