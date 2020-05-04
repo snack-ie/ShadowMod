@@ -4,7 +4,7 @@ description: Produces power from phase fabric.
 size: 2
 hasPower: true
 hasItems: true
-itemDuration: 100
+itemDuration: 700
 powerProduction: 20
 consumes: {
   items: {
