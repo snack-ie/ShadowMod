@@ -22,7 +22,7 @@
     { "item": "titanium", "amount": 100 },
     { "item": "silicon", "amount": 100 },
     { "item": "plastanium", "amount": 50 },
-    { "item": "shadum alloy", "amount": 200 },
+    { "item": "shadum-alloy", "amount": 200 },
     { "item": "phase-fabric", "amount": 10 },
     { "item": "surge-alloy", "amount": 30 }
   ]
