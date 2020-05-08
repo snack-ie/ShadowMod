@@ -1,0 +1,7 @@
+{
+	"name": "Shadowned Sand",
+	"type": "Floor",
+	"speedMultiplier": 0.4,
+	"variants": 3,
+	"itemDrop": "sand",
+}
