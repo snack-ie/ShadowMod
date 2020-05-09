@@ -34,10 +34,10 @@
     }
   },
   "requirements": [
-    { "item": "copper", "amount": 60 },
+    { "item": "phase-fabric", "amount": 50 },
     { "item": "plastanium", "amount": 80 },
     { "item": "graphite", "amount": 50 },
-    { "item": "shadum-alloy", "amount": 100 }
+    { "item": "shadum-alloy", "amount": 130 }
   ],
   "category": "turret",
   "research": "cyclone"
