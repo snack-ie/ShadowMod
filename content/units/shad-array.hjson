@@ -1,0 +1,34 @@
+{
+	type: Revenant
+	name: Shadow Array
+	description: A unit with surge repeater
+   drag: 0.15
+	speed: 0.1
+	mass: 30
+	hitsize: 40
+	health: 1000
+   flying: true
+	rotateWeapon: true
+	engineOffset: 12
+	engineSize: 5
+	rotatespeed: 0.025
+	baseRotateSpeed: 0.05
+	shootCone: 70
+    weapon: {
+   name: chaos-equip
+   width: 17
+   lenght: 8
+   lifetime: 280
+   range: 300
+   recoil: 3
+   shots: 4
+   spacing: 4
+   shake: 2
+   inaccuracy: 3
+   shotDelay: 5
+   alternate: true
+   ejectEffect: shellEjectMedium
+   bullet: flakSurge
+   shootSound: shootBig
+	}
+}
