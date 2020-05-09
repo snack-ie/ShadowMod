@@ -7,7 +7,7 @@ tier: 3
 hasLiquids: true
 hasItems: true
 drillTime: 400
-drawRim: true
+drawRim: false
 drawMineItem: true
 updateEffect: pulverizeMedium
 drillEffect: mineBig
@@ -16,6 +16,7 @@ consumes: {
   liquid: {
     liquid: water
 	amount: 0.1
+        optional: true
 	booster: true
   }
 }
