@@ -2,8 +2,8 @@
   type: groundUnit
   name: Darkenic
   description: A weak unit.
-  maxVelocity: 0.3
-  speed: 0.1
+  maxVelocity: 1
+  speed: 0.5
   drag: 0.05
   hitsize: 5
   mass: 1.75
