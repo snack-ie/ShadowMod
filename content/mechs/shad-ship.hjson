@@ -34,7 +34,7 @@
    lenght: 5
    lifetime: 280
    range: 300
-   reload: 100
+   reload: 40
    recoil: 3
    shots: 4
    spacing: 4
