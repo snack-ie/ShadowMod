@@ -14,7 +14,7 @@ drillEffect: mineBig
 liquidBoostIntensity: 2.56
 consumes: {
   liquid: {
-    liquid: liquid-water
+    liquid: water
 	amount: 0.1
 	booster: true
   }
