@@ -1,7 +1,7 @@
 type: MechPad
 name: Shadow Array Pad
 mech: shad-ship
-description: Provides transformation into a fighter ship equipped with M.F.B Launchers.
+description: Provides transformation into a fighter ship equipped with surge-repeater.
 size: 6
 consumes: {
   power: 2.8
