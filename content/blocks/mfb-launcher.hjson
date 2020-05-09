@@ -16,18 +16,18 @@
       "type": "ArtilleryBulletType",
       "frontColor": "a488eb",
       "backColor": "a488eb",
-      "damage": 1,
+      "damage": 10,
       "bulletWidth": 12,
       "bulletHeight": 12,
       "speed": 2.5,
-      "splashDamage": 1,
-      "splashDamageRadius": 60
+      "splashDamage": 10,
+      "splashDamageRadius": 50
    "fragBullets": 100,
    fragBullet:{
 		 "type": "BasicBulletType",
 		"speed": 4,
-		"splashDamage": 1,
-		"splashDamageRadius": 10,
+		"splashDamage": 5,
+		"splashDamageRadius": 25,
 		"lifetime": 30,
 		"collides": "true"
      }
