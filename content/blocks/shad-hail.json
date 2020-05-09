@@ -1,7 +1,7 @@
 {
   "type": "ArtilleryTurret",
-  "name": "coated-hail",
-  "description": "A upgrade of the hail that shoots trhee bullets per shot;",
+  "name": "Shadum Hail",
+  "description": "A upgrade of the hail;",
   "health": 300,
   "size": 2,
   "heatColor": "ff0000",
@@ -10,7 +10,7 @@
   "range": 280,
   "reload": 50,
   "inaccuracy": 10,
-  "shots": 3,
+  "shots": 1,
   "velocityInaccuracy": 0.025,
   "ammo": {
     "graphite": {
