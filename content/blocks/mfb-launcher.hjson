@@ -24,7 +24,7 @@
       "splashDamageRadius": 60
    "fragBullets": 100,
    fragBullet:{
-		 "type": BasicBulletType,
+		 "type": "BasicBulletType",
 		"speed": 4,
 		"splashDamage": 1,
 		"splashDamageRadius": 10,
