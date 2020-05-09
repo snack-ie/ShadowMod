@@ -21,13 +21,13 @@
       "bulletHeight": 12,
       "speed": 2.5,
       "splashDamage": 10,
-      "splashDamageRadius": 50
+      "splashDamageRadius": 100
    "fragBullets": 100,
    fragBullet:{
 		 "type": "BasicBulletType",
 		"speed": 4,
-		"splashDamage": 5,
-		"splashDamageRadius": 25,
+		"splashDamage": 10,
+		"splashDamageRadius": 100,
 		"lifetime": 30,
 		"collides": "true"
      }
