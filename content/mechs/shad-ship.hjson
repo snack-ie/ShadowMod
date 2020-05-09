@@ -1,0 +1,49 @@
+{
+	name: Shadow Array Ship
+	description: A ship with high attack power equipped with surge repeater
+
+ flying: true
+ speed: 0.3
+ maxSpeed: 3
+ drag: 0.05
+ hitsize: 20
+ mass: 2
+
+ health: 1000
+
+ engineSize: 1
+ engineOffset: 21
+
+ baseRotateSpeed: 0.1
+ rotatespeed: 1
+
+ buildPower: 1
+ miningPower: 3
+ mineSpeed: 4
+ itemCapacity: 80
+ drillPower: 4
+
+ attackLenght: 45
+ shootCone: 20
+
+ weaponOffsetX: 1
+
+ weapon: {
+   name: chaos-equip
+   width: 10
+   lenght: 5
+   lifetime: 280
+   range: 300
+   reload: 100
+   recoil: 3
+   shots: 4
+   spacing: 4
+   shake: 2
+   inaccuracy: 3
+   shotDelay: 5
+   alternate: false
+   ejectEffect: shellEjectMedium
+   bullet: flakSurge
+   shootSound: shootBig
+ 	}
+}
