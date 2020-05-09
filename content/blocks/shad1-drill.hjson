@@ -6,7 +6,7 @@ update: true
 tier: 3
 hasLiquids: true
 hasItems: true
-drillTime: 100
+drillTime: 400
 drawRim: true
 drawMineItem: true
 updateEffect: pulverizeMedium
