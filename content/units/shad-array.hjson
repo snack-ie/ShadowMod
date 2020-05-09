@@ -16,7 +16,7 @@
 	shootCone: 70
     weapon: {
    name: chaos-equip
-   reload: 200
+   reload: 100
    width: 17
    lenght: 8
    lifetime: 280
