@@ -1,0 +1,27 @@
+{
+	"name": "Shadowned Core",
+	"description": "Shadowned Core",
+	"type": "CoreBlock",
+	"health": 3000,
+	"breakable": false,
+	"destructible": true,
+	"size": 6,
+	"itemCapacity": 26000,
+	"unloadable": true,
+	"requirements": [
+	    {
+			"item": "shadum-alloy",
+			"amount": 750
+		},
+		{
+			"item": "surge-alloy",
+			"amount": 850
+		},
+		{
+			"item": "phase-fabric",
+			"amount": 400
+		}
+	],
+	"buildVisibility": "hidden",
+  "category": "effect",
+}

@@ -1,0 +1,27 @@
+type: DoubleTurret
+name: Shadum Duo Turret
+description: It's a duo, but of shadum.
+health: 400
+size: 1
+reload: 4
+range: 150
+ammoUseEffect: shellEjectSmall
+inaccuracy: 30
+rotatespeed: 12
+ammo: {
+  shadum: {
+    speed: 4.5
+    damage: 14
+    bulletWidth: 7
+    bulletHeight: 9
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+    ammoMultiplier: 4
+  }
+}
+requirements: [
+  shadum/40
+  copper/70
+]
+category: turret
+research: duo

@@ -1,0 +1,28 @@
+name: Simple Shadum Drill
+type: drill
+description: A simple drill of shadum capable to mine titanium
+size: 2
+update: true
+tier: 3
+hasLiquids: true
+hasItems: true
+drillTime: 100
+drawRim: true
+drawMineItem: true
+updateEffect: pulverizeMedium
+drillEffect: mineBig
+liquidBoostIntensity: 2.56
+consumes: {
+  liquid: {
+    liquid: liquid-water
+	amount: 0.1
+	booster: true
+  }
+}
+requirements: [
+  shadum/12
+  copper/6
+  graphite/6
+]
+category: production
+research: pneumatic-drill

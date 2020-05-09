@@ -1,0 +1,17 @@
+type: MechPad
+name: Shadow Array Pad
+mech: shad-ship
+description: Provides transformation into a fighter ship equipped with M.F.B Launchers.
+size: 6
+consumes: {
+  power: 2.8
+}
+requirements: [
+  lead/325
+  silicon/375
+  titanium/250
+  shadum/250
+  shadum-alloy/145
+]
+category: upgrade
+research: interceptor-ship-pad

@@ -1,0 +1,44 @@
+{
+  "type": "artilleryTurret",
+  "name": "M.F.B. Launcher",
+  "description": "Multi Fragmentation Bomb Launcher. Only use metaglass",
+  "size": 4,
+  "health": 500,
+  "shootEffect": "shootSmallSmoke",
+  "shootSound": "artillery",
+  "range": 280,
+  "reload": 500,
+  "inaccuracy": 20,
+  "shots": 1,
+  "velocityInaccuracy": 0,
+  "ammo": {
+    "metaglass": {
+      "type": "ArtilleryBulletType",
+      "frontColor": "a488eb",
+      "backColor": "a488eb",
+      "damage": 1,
+      "bulletWidth": 12,
+      "bulletHeight": 12,
+      "speed": 2.5,
+      "splashDamage": 1,
+      "splashDamageRadius": 60
+   "fragBullets": 100,
+   fragBullet:{
+		 "type": BasicBulletType,
+		"speed": 4,
+		"splashDamage": 1,
+		"splashDamageRadius": 10,
+		"lifetime": 30,
+		"collides": "true"
+     }
+    }
+  },
+  "requirements": [
+    { "item": "copper", "amount": 60 },
+    { "item": "plastanium", "amount": 80 },
+    { "item": "graphite", "amount": 50 },
+    { "item": "shadum-alloy", "amount": 100 }
+  ],
+  "category": "turret",
+  "research": "cyclone"
+}
