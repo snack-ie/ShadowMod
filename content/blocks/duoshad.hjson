@@ -6,7 +6,7 @@ size: 1
 reload: 4
 range: 150
 ammoUseEffect: shellEjectSmall
-inaccuracy: 30
+inaccuracy: 15
 rotatespeed: 12
 ammo: {
   shadum: {
