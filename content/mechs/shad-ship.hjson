@@ -9,7 +9,7 @@
  hitsize: 20
  mass: 2
 
- health: 1000
+ health: 5000
 
  engineSize: 1
  engineOffset: 21
