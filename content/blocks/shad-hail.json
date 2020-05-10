@@ -23,7 +23,7 @@
       "speed": 2.5,
       "knockback": 1,
       "ammoMultiplier": 4,
-      "splashDamage": 50,
+      "splashDamage": 25,
       "splashDamageRadius": 40
     },
     "silicon": {
@@ -37,7 +37,7 @@
       "knockback": 1,
       "homingPower": "1",
       "ammoMultiplier": 4,
-      "splashDamage": 50,
+      "splashDamage": 25,
       "splashDamageRadius": 40
     },
     "pyratite": {
@@ -50,8 +50,8 @@
       "speed": 2.5,
       "knockback": 1,
       "incendAmount": 2.5,
-      "ammoMultiplier": 4,
-      "splashDamage": 45,
+      "ammoMultiplier": 5,
+      "splashDamage": 23,
       "splashDamageRadius": 40
     },
     "plastanium": {
@@ -66,29 +66,29 @@
       "ammoMultiplier": 4,
       "fragBullets": 15,
       "fragBullet": "artilleryPlasticFrag",
-      "splashDamage": 67,
+      "splashDamage": 25,
       "splashDamageRadius": 60
     },
-    "shadum": {
+    "shadum-alloy": {
       "type": "ArtilleryBulletType",
       "frontColor": "a488eb",
       "backColor": "a488eb",
-      "damage": 50,
+      "damage": 35,
       "bulletWidth": 12,
       "bulletHeight": 12,
       "speed": 2.5,
       "knockback": 2.8,
       "ammoMultiplier": 4,
-      "homingPower": "1",
-      "incendAmount": 10,
+      "homingPower": "0.2",
+      "incendAmount": 15,
       "fragBullets": 15,
       "fragBullet": "artilleryPlasticFrag",
-      "splashDamage": 10,
+      "splashDamage": 25,
       "splashDamageRadius": 50
     }
   },
   "requirements": [
-    { "item": "copper", "amount": 60 },
+    { "item": "titanium", "amount": 60 },
     { "item": "graphite", "amount": 25 },
     { "item": "shadum-alloy", "amount": 50 }
   ],
