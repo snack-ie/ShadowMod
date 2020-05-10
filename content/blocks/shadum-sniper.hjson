@@ -23,5 +23,5 @@ ammo: {
 }
 ammoPerShoot: 1
 range: 600
-reload: 60
+reload: 100
 research: salvo
