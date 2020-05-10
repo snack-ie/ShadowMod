@@ -10,6 +10,7 @@ requirements: [
  thorium/100
  copper/100
  plastanium/125
+ phase-fabric/20
 ]
 ammo: {
  shadum-alloy: {
@@ -33,5 +34,5 @@ ammo: {
 }
 ammoPerShoot: 3
 range: 1200
-reload: 90
+reload: 180
 research: shadum-sniper
