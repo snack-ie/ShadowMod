@@ -7,8 +7,8 @@
   "shootEffect": "shootSmallSmoke",
   "shootSound": "artillery",
   "range": 280,
-  "reload": 500,
-  "inaccuracy": 20,
+  "reload": 300,
+  "inaccuracy": 0,
   "shots": 1,
   "velocityInaccuracy": 0,
   "ammo": {
@@ -16,19 +16,20 @@
       "type": "ArtilleryBulletType",
       "frontColor": "a488eb",
       "backColor": "a488eb",
-      "damage": 10,
+      "damage": 99,
       "bulletWidth": 12,
       "bulletHeight": 12,
       "speed": 2.5,
-      "splashDamage": 1,
+      "incendAmount": 5,
+      "splashDamage": 5,
       "splashDamageRadius": 100
    "fragBullets": 100,
    fragBullet:{
 		 "type": "BasicBulletType",
 		"speed": 4,
-		"splashDamage": 1,
+		"splashDamage": 5,
 		"splashDamageRadius": 100,
-                "incendAmount": 1
+                "incendAmount": 5
 		"lifetime": 30,
 		"collides": "true"
      }
