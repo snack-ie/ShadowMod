@@ -1,8 +1,8 @@
-  type: Revenant
+  type: flyingUnit
 	name: Leviathan
   description: It's an airbone fortres equiped with an amplified long range S.E.M.M.G
   drag: 0.15
-	speed: 0.01
+	speed: 0.02
 	mass: 80
 	hitsize: 35
 	health: 24000
