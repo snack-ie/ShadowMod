@@ -3,7 +3,7 @@ name: Shocker
 description: a strong unit that shock the enemys with powerfulls lightnings
 speed: 0.1
 drag: 0.2
-health: 700
+health: 1500
 reload: 80
 shotDelay: 1
 shots: 1
