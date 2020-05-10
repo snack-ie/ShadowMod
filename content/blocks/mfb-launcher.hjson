@@ -27,7 +27,7 @@
    fragBullet:{
 		 "type": "BasicBulletType",
 		"speed": 4,
-		"splashDamage": 5,
+		"splashDamage": 1,
 		"splashDamageRadius": 100,
                 "incendAmount": 5
 		"lifetime": 30,
