@@ -1,5 +1,5 @@
 name: Shadow Production Complex
-description: [red]Destroy the enemy core or die trying.
+description: "[red]Destroy the enemy core or die trying."
 startingItems: [
   copper/1000
   lead/1000
