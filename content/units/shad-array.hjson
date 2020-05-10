@@ -3,10 +3,10 @@
 	name: Shadow Array
 	description: A unit with surge repeater
    drag: 0.15
-	speed: 0.1
+	speed: 0.07
 	mass: 30
 	hitsize: 40
-	health: 1000
+	health: 4900
    flying: true
 	rotateWeapon: true
 	engineOffset: 12
