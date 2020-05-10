@@ -11,7 +11,7 @@
   "recoil": 3,
   "shootShake": 2,
   "burstSpacing": 1,
-  "shots": 10,
+  "shots": 5,
   "ammoUseEffect": "shellEjectBig",
   "health": 500,
   "shootSound": "shootBig",
@@ -56,6 +56,18 @@
       "speed": 6,
       "ammoMultiplier": 8,
       "reloadMultiplier": 1,
+      "homingPower": 1
+    },
+    "shadum":{
+      "type": "BasicBulletType",
+      "bulletWidth": 7.5,
+      "bulletHeight": 10,
+      "damage": 70,
+      "lifetime": 66.666666666,
+      "speed": 6,
+      "ammoMultiplier": 6,
+      "reloadMultiplier": 1,
+      "incendAmount": 4,
       "homingPower": 1
     },
     "thorium": {
