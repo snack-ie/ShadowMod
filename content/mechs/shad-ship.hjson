@@ -33,7 +33,7 @@
    width: 10
    lenght: 5
    lifetime: 280
-   range: 300
+   range: 500
    reload: 40
    recoil: 3
    shots: 4
