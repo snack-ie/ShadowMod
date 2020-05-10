@@ -1,0 +1,26 @@
+name: Shadow Array Factory
+description: Makes shadow arrays, a too powerfull flying unit.
+type: UnitFactory
+unitType: shad-array
+size: 6
+produceTime: 6400
+maxSpawn: 3
+consumes: {
+  power: 1.4
+  items: {
+    items: [
+      shadum-alloy/200
+      thorium/100
+      silicon/50
+    ]
+  }
+}
+category: units
+research: dark-interceptor-fac
+requirements: [
+  thorium/200
+  lead/150
+  shadum-alloy/400
+  silicon/50
+  surge-alloy/100
+]
