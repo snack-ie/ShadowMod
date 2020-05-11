@@ -10,15 +10,10 @@ updateEffect: smeltsmoke
 
 consumes: {
   power: 1.3
-  items: {
-   items: [
-  silicon/1
-   [
-  {
     
   liquid: {
     liquid: molten-shadum
-    amount: 0.14
+    amount: 0.28
   }
 }
 
