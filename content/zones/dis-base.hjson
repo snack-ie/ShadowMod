@@ -17,7 +17,7 @@ requirements: [
   }
   {
     type: Unlock
-    block: shadum sniper
+    block: shadum-sniper
   }
   {
     type: Unlock
