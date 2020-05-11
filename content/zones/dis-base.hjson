@@ -1,0 +1,36 @@
+name: Distant base
+description: our radars have detected a small distant research base that is producing a new feature, due to lack of space there are not many defenses, but for some reason the treadmills that are carrying the new features are more protected than the rest, find out why and destroy the base, but watch out, the central base is sending units to defend the base.
+startingItems: [
+  copper/1000
+  lead/1000
+  graphite/500
+  shadum/500
+  silicon/500
+]
+conditionWave: 10
+launchPeriod: 10
+requirements: [
+  {
+    type: ZoneWave
+    zone: spore-hills
+    wave: 20
+  }
+  {
+    type: Unlock
+    block: shadum sniper
+  }
+  {
+    type: Unlock
+    block: shad2-drill
+  }
+]
+resources: [
+  copper
+  lead
+  coal
+  sand
+  shadum
+  titanium
+  thorium
+  void
+]
