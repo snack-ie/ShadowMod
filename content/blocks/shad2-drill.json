@@ -1,0 +1,33 @@
+type: drill
+name: Shadum Drill
+description: A drill that use burning molten shadum to drill a unknow ore
+size: 4
+update: true
+tier: 6
+hasPower: true
+hasLiquids: true
+hasItems: true
+drillTime: 240
+drawRim: true
+drawMineItem: true
+updateEffect: pulverizeMedium
+drillEffect: mineBig
+heatColor: 9800ff
+liquidBoostIntensity: 1
+consumes: {
+  power: 2
+  liquid: {
+    liquid: molten-shadum
+	amount: 0.2
+	booster: false
+  }
+}
+requirements: [
+  titanium/50
+  shadum-alloy/70
+  silicon/60
+  metaglass/50
+  thorium/80
+]
+category: production
+research: blast-drill
