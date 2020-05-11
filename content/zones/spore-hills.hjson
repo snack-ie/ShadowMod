@@ -16,10 +16,6 @@ requirements: [
   }
   {
     type: Unlock
-    block: doushad
-  }
-  {
-    type: Unlock
     block: thorium-extractor
   }
 ]
