@@ -1,5 +1,5 @@
 name: Distant base
-description: our radars have detected a small distant research base that is producing a new feature, due to lack of space there are not many defenses, but for some reason the treadmills that are carrying the new features are more protected than the rest, find out why and destroy the base, but watch out, the central base is sending units to defend the base.
+description: our radars have detected a small distant research base that is producing a new feature, due to lack of space there are not many defenses, but for some reason the conveyors that are carrying the new features are more protected than the rest, find out why and destroy the base, but watch out, the central base is sending units to defend the base.
 startingItems: [
   copper/1000
   lead/1000
