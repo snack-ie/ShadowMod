@@ -19,7 +19,7 @@ consumes: {
 
 requirements: [
   lead/50
-  thorium/80
+  titanium/80
   silicon/60
   shadum/50
 ]
@@ -28,6 +28,5 @@ category: crafting
 research: shadum-melter
 idleSound: respawning
 idleSoundVolume: 0.5
-outputItem: [
- shadum-alloy/1
-]
+
+outputItem: shadum-alloy/1
