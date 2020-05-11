@@ -1,7 +1,7 @@
 type: drill
 name: Shadum Drill
 description: A drill that use burning molten shadum to drill a unknow ore
-size: 4
+size: 3
 update: true
 tier: 6
 hasPower: true
@@ -24,10 +24,10 @@ consumes: {
 }
 requirements: [
   titanium/50
-  shadum-alloy/70
+  shadum-alloy/300
   silicon/60
   metaglass/50
-  thorium/80
+  surge-alloy/100
 ]
 category: production
 research: blast-drill
