@@ -16,7 +16,7 @@ requirements: [
   }
   {
     type: Unlock
-    block: alloy-reconstructor
+    block: doushad
   }
   {
     type: Unlock
