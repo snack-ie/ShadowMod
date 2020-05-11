@@ -1,6 +1,6 @@
 type: GenericSmelter
 name: Alloy Reconstructor
-description: Reconstructs the shadum alloy from the molten shadum.
+description: Makes the shadum alloy melting titanium, molten shadum and silicon.
 liquidCapacity: 50
 size: 3
 hasPower: true
@@ -9,6 +9,11 @@ craftTime: 100
 updateEffect: smeltsmoke
 consumes: {
   power: 1.3
+  items: {
+   items: [
+  titanium/3
+  silicon/1
+    
   liquid: {
     liquid: molten-shadum
     amount: 0.14
@@ -24,4 +29,4 @@ category: crafting
 research: shadum-melter
 idleSound: respawning
 idleSoundVolume: 0.5
-outputItem: shadum-alloy/1
+outputItem: shadum-alloy/3
