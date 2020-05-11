@@ -13,6 +13,8 @@ consumes: {
    items: [
   titanium/3
   silicon/1
+   [
+  {
     
   liquid: {
     liquid: molten-shadum
