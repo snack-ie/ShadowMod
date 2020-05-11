@@ -17,7 +17,7 @@
  baseRotateSpeed: 0.1
  rotatespeed: 1
 
- buildPower: 1
+ buildPower: 5
  miningPower: 3
  mineSpeed: 4
  itemCapacity: 80
