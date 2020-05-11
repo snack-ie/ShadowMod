@@ -12,7 +12,7 @@ launchPeriod: 10
 requirements: [
   {
     type: ZoneWave
-    zone: spore-hills
+    zone: shad-pro-complex
     wave: 20
   }
   {
