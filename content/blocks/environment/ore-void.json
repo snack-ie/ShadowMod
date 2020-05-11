@@ -1,0 +1,5 @@
+type: OreBlock
+itemDrop: void
+oreDefault: true
+oreThreshold: 0.50
+oreScale: 20.828543
