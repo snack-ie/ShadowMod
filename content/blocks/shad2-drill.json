@@ -12,7 +12,7 @@ drawRim: true
 drawMineItem: true
 updateEffect: pulverizeMedium
 drillEffect: mineBig
-heatColor: 9800ff
+heatColor: ff8000
 liquidBoostIntensity: 1
 consumes: {
   power: 2
