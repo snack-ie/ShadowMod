@@ -1,11 +1,11 @@
 type: SingleTypeGenerator
-name: Shadum generator
+name: Shard Generator
 description: Produces power from shadum shards.
 size: 2
 hasPower: true
 hasItems: true
 itemDuration: 100
-powerProduction: 3.5
+powerProduction: 3.7
 consumes: {
   items: {
     items: [
