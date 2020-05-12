@@ -1,0 +1,23 @@
+type: SingleTypeGenerator
+name: Shadum generator
+description: Produces power from the [gray]VOID.
+size: 2
+hasPower: true
+hasItems: true
+itemDuration: 300
+powerProduction: 50
+consumes: {
+  items: {
+    items: [
+      void/1
+    ]
+    optional: true
+  }
+}
+requirements: [
+  thorium/80
+  silicon/40
+  void/50
+]
+category: power
+research: phase-generator
