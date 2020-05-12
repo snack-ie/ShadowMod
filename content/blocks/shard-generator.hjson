@@ -1,0 +1,23 @@
+type: SingleTypeGenerator
+name: Shadum generator
+description: Produces power from shadum shards.
+size: 2
+hasPower: true
+hasItems: true
+itemDuration: 100
+powerProduction: 3.5
+consumes: {
+  items: {
+    items: [
+      shadum-shard/1
+    ]
+    optional: true
+  }
+}
+requirements: [
+  lead/80
+  silicon/40
+  shadum/50
+]
+category: power
+research: thermal-generator
