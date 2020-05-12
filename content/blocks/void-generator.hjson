@@ -1,6 +1,6 @@
 type: SingleTypeGenerator
 name: Shadum generator
-description: "Produces power from the [gray]VOID."
+description: Produces power from the VOID.
 size: 2
 hasPower: true
 hasItems: true
