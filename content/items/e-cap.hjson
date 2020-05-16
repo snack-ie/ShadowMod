@@ -1,0 +1,4 @@
+type: resource
+name: Empty Capsule
+description: A empty capsule, can be used to transport solidified liquidis and unstable materials
+color: 999999
