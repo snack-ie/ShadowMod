@@ -19,8 +19,8 @@
 		length: 1
 		range: 200
 		width: 6
-		reload: 6
-    shots: 2
+		reload: 180
+    shots: 10
     shootcone: 360,
     shotDelay: 0.1
 		alternate: false
