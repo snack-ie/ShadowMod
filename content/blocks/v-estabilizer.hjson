@@ -21,6 +21,8 @@
 		  liquid:[
 		   cryoflyuid
 		   amount: 0.2
+                  ]
+                }
 	}
 	requirements: [
 		titanium/200
