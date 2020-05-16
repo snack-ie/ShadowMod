@@ -17,12 +17,6 @@
 				e-cap/1
 			]
 		}
-		liquid: {
-		  liquid:[
-		   cryoflyuid
-		   amount: 0.2
-                  ]
-                }
 	}
 	requirements: [
 		titanium/200
