@@ -37,7 +37,7 @@
 	frontColor: a488eb
 	backColor: 8b73c7
 	trailColor: cb00ff
-	homingPower: 0.3
+	homingPower: 0.01
 	homingRange: 100
 	hitEffect: blastExplosion
 	despawnEffect: blastExplosion
