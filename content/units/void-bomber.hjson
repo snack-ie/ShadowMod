@@ -1,7 +1,7 @@
     type: FlyingUnit
 	name: Void Bomber
 	description: A faster bomber of the void
-    drag: 1
+    drag: 0.5
 	speed: 3
 	mass: 20
 	hitsize: 16
@@ -10,8 +10,8 @@
 	rotateWeapon: true
 	engineOffset: 11
 	engineSize: 4
-	rotatespeed: 2
-	baseRotateSpeed: 1
+	rotatespeed: 1
+	baseRotateSpeed: 0.2
 	shootCone: 360
 	range: 16
 	weapon: {
