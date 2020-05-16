@@ -3,7 +3,7 @@
 	description: Estabilize and encapsule void, creating void charges
 	health: 80
 	itemCapacity: 10
-	outputItem: void-c
+	outputItem: void-c/1
 	size: 2
 	hasPower: true
 	hasItems: true
