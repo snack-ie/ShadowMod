@@ -1,0 +1,35 @@
+     type: GenericCrafter
+	name: Void Estabilizer
+	description: Estabilize and encapsule void, creating void charges
+	health: 80
+	itemCapacity: 10
+	outputItem: void-c
+	size: 2
+	hasPower: true
+	hasItems: true
+	craftTime: 600
+	updateEffect: smeltsmoke
+	consumes: {
+		power: 20
+		items: {
+			items: [
+				void/1
+				e-cap/1
+			]
+		}
+		liquid: {
+		  liquid:[
+		   cryoflyuid
+		   amount: 0.2
+	}
+	requirements: [
+		titanium/200
+		silicon/30
+		lead/200
+		void/25
+		shadum-alloy/80
+	]
+	category: crafting
+	idleSound: respawning
+	idleSoundVolume: 0.05
+	research: cap-fac
