@@ -1,8 +1,8 @@
     type: FlyingUnit
 	name: Void Bomber
 	description: A faster bomber of the void
-    drag: 1
-	speed: 2
+    drag: 0.5
+	speed: 1.7
 	mass: 20
 	hitsize: 20
 	health: 250
