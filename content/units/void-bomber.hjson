@@ -23,7 +23,7 @@
     shots: 6
     shootcone: 360,
     shotDelay: 0.1
-		alternate: false
+		alternate: true
     velocityRnd: 0.4
     spacing: 0.1
     shootSound: artillery
