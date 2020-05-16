@@ -2,7 +2,7 @@
 	name: Void Bomber
 	description: A faster bomber of the void
     drag: 0.5
-	speed: 3
+	speed: 1.8
 	mass: 20
 	hitsize: 33
 	health: 250
@@ -30,10 +30,10 @@
 		bullet: {
 		  type:  BasicBulletType
       bulletWidth: 12
-      speed: 0.03
+      speed: 0.001
       damage: 15
-      drag: 0.01
-      bulletHeight: 20
+      drag: 10
+      bulletHeight: 6
       bulletShrink: 0,
       lifetime: 15
        splashDamageRadius: 35
