@@ -1,26 +1,26 @@
     type: FlyingUnit
 	name: Void Bomber
 	description: A faster bomber of the void
-    drag: 0.5
-	speed: 1.8
+    drag: 1
+	speed: 2
 	mass: 20
-	hitsize: 33
+	hitsize: 20
 	health: 250
    flying: true,
 	rotateWeapon: true
 	engineOffset: 11
 	engineSize: 2
-	rotatespeed: 1
-	baseRotateSpeed: 0.2
+	rotatespeed: 0.5
+	baseRotateSpeed: 0.08
 	shootCone: 360
-	range: 16
+	range: 200
 	weapon: {
 		name: bomb-bay
 		length: 1
 		range: 200
 		width: 6
 		reload: 1
-    shots: 1
+    shots: 6
     shootcone: 360,
     shotDelay: 0.1
 		alternate: false
