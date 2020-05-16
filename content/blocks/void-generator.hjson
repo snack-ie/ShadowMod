@@ -4,8 +4,8 @@ description: Produces power from the VOID.
 size: 2
 hasPower: true
 hasItems: true
-itemDuration: 60
-powerProduction: 1000
+itemDuration: 300
+powerProduction: 1669
 consumes: {
   items: {
     items: [
