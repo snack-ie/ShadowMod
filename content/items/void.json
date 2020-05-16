@@ -3,6 +3,8 @@ name:Void Cristal
 description:A shard of the void, extremely unstable, can be used to craft high durable materials and new type of technologies of the void
 hardness: 6
 cost: 3
-explosiveness: 0.5
-radioactivity: 0.5
+explosiveness: 100
+radioactivity: 100
+flammability: 100
+
 color: 000000
