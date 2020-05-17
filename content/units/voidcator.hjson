@@ -1,7 +1,7 @@
 name: VoidCator
-description: A erradicator upgraded with void parts
+description: A erradicator upgraded with void parts (6000 DPS).
 type: GroundUnit
-health: 9000
+health: 36000
 speed: 0.1
 maxVelocity: 0.6
 mass: 6
@@ -12,7 +12,7 @@ weapon: {
   name: voidcator-equip
   length: 16
   width: 25
-  reload: 80
+  reload: 60
   alternate: true
   recoil: 6
   shake: 2.2
@@ -21,7 +21,7 @@ weapon: {
   shootSound: artillery
   bullet: {
 	hitEffect: blastExplosion
-	damage: 4000
+	damage: 6000
 	speed: 7
 	knockback: 3
 	lifetime: 100
