@@ -11,9 +11,8 @@ updateEffect: smeltsmoke
 consumes: {
   power: 1.3
   items: {
-    items: [
-      titanium/1
-    [
+    items: titanium
+    amount: 1
   {
   liquid: {
     liquid: molten-shadum
