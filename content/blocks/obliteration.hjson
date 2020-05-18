@@ -27,8 +27,7 @@ ammo: {
 	  bulletHeight: 22
 	  backColor: ffffff
 	  frontColor: 000000
-	  ammoMultiplier: 4
-	  hitSound: 
+	  ammoMultiplier: 1
   }
 }
 requirements: [
