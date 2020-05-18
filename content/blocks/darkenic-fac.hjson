@@ -4,19 +4,19 @@ type: UnitFactory
 unitType: darkenic
 size: 2
 produceTime: 400
-maxSpawn: 6
+maxSpawn: 4
 consumes: {
   power: 0.5
   items: {
     items: [
-      shadum/10
+      shadum/15
     ]
   }
 }
 category: units
 research: dagger-factory
 requirements: [
-  copper/200
-  lead/150
-  shadum/300
+  copper/80
+  lead/60
+  shadum/80
 ]
