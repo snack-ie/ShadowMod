@@ -1,6 +1,6 @@
 name: Silicon smelter ultra
 type: GenericSmelter
-description: The ultimate silicon smelter, use the shadow technologie to transform shadum in silycon
+description: The ultimate silicon smelter, use the shadow technologie to transform shadum in silicon
 size: 4
 solid: true
 hasItems: true
@@ -12,22 +12,22 @@ craftEffect: smeltsmoke
 flameColor: ffef99
 
 requirements: [
-    copper/400
+    surge-alloy/100
     lead/300
     silicon/100
-    shadum-alloy/100
+    shadum-alloy/200
 ]
 
 consumes: {
     power: 8
     items: {
         items: [
-            shadum/25
+            shadum/15
         ]
     }
 }
 
-outputItem: silicon/10
+outputItem: silicon/5
 
 category: crafting
 research: silicon-smelter
