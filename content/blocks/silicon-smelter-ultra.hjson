@@ -1,6 +1,6 @@
 name: Silicon smelter ultra
 type: GenericSmelter
-description: The ultimate silicon smelter, transform shadum in silicon
+description: The ultimate silicon smelter, use pyratite to burn sand into silicon.
 size: 4
 solid: true
 hasItems: true
@@ -12,9 +12,9 @@ craftEffect: smeltsmoke
 flameColor: ffef99
 
 requirements: [
-    surge-alloy/100
+    titanium/100
     lead/300
-    silicon/100
+    silicon/300
     shadum-alloy/200
 ]
 
@@ -22,7 +22,8 @@ consumes: {
     power: 8
     items: {
         items: [
-            shadum/15
+            pyratite/5
+            sand/10
         ]
     }
 }
