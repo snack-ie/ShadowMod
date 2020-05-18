@@ -6,12 +6,12 @@ update: true
 tier: 3
 hasLiquids: true
 hasItems: true
-drillTime: 400
+drillTime: 375
 drawRim: false
 drawMineItem: true
 updateEffect: pulverizeMedium
 drillEffect: mineBig
-liquidBoostIntensity: 2.56
+liquidBoostIntensity: 2.66
 consumes: {
   liquid: {
     liquid: water
