@@ -39,4 +39,4 @@ requirements: [
 ]
 category: turret
 research: sems
-shootSound: megaboom
+shootSound: megalancer
