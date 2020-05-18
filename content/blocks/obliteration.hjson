@@ -28,7 +28,7 @@ ammo: {
 	  backColor: ffffff
 	  frontColor: 000000
 	  ammoMultiplier: 1
-          hitSound: megalancer
+          hitSound: megaboom
   }
 }
 requirements: [
