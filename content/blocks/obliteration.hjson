@@ -14,6 +14,7 @@ restitution: 0.003
 cooldown: 0.006
 heatColor: ff0000
 shots: 1
+shootSound: megalancer
 ammo: {
   void-c: {
     damage: 66666
@@ -21,6 +22,7 @@ ammo: {
     splashDamage: 666
   	splashDamageRadius: 6
     hitEffect: blastExplosion
+          hitSound: megaboom
 	  knockback: 6
 	  lifetime: 53
 	  bulletWidth: 17
@@ -28,7 +30,6 @@ ammo: {
 	  backColor: ffffff
 	  frontColor: 000000
 	  ammoMultiplier: 1
-          hitSound: megaboom
   }
 }
 requirements: [
@@ -40,4 +41,3 @@ requirements: [
 ]
 category: turret
 research: sems
-shootSound: megalancer
