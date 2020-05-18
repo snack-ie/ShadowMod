@@ -16,15 +16,15 @@ heatColor: ff0000
 shots: 1
 ammo: {
   void-c: {
-    damage: 666
+    damage: 66666
 	  speed: 30
-    splashDamage: 10000
-  	splashDamageRadius: 40
+    splashDamage: 66
+  	splashDamageRadius: 6
     hitEffect: blastExplosion
-	  knockback: 9
+	  knockback: 6
 	  lifetime: 53
 	  bulletWidth: 17
-	  bulletHeight: 22
+	  bulletHeight: 66
 	  backColor: ffffff
 	  frontColor: 000000
 	  ammoMultiplier: 1
