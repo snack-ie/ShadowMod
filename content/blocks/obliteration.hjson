@@ -17,10 +17,8 @@ shots: 1
 shootSound: megalancer
 ammo: {
   void-c: {
-    damage: 66666
+    damage: 36666
 	  speed: 30
-    splashDamage: 666
-  	splashDamageRadius: 6
     hitEffect: blastExplosion
           hitSound: megaboom
 	  knockback: 6
