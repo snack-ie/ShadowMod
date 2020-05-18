@@ -9,11 +9,16 @@ craftTime: 100
 updateEffect: smeltsmoke
 
 consumes: {
+
   power: 1.3
+
   liquid: {
+
     liquid: molten-shadum
     amount: 0.36
+
   }
+
 }
 
 requirements: [
