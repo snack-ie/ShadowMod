@@ -1,6 +1,6 @@
 type: SingleTypeGenerator
 name: Void generator
-description: Produces power from the VOID.
+description: Produces power from the void charges.
 size: 2
 hasPower: true
 hasItems: true
