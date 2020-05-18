@@ -10,6 +10,9 @@ updateEffect: smeltsmoke
 
 consumes: {
 
+  items: {
+  }
+
   power: 1.3
 
   liquid: {
