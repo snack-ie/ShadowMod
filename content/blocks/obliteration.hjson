@@ -1,0 +1,43 @@
+name: Obliteration
+description: The ultimate sniper, can obliterate everything. No recomended to kill fast units or without colant.
+type: burstTurrer
+health: 2400
+size: 4
+reload: 1800
+ammoUseEffect: shellEjectBig
+inaccuracy: 2
+rotatespeed: 0.50
+shootCone: 10
+range: 1200
+recoil: 13
+restitution: 0.0005
+cooldown: 0.002
+heatColor: ff0000
+shots: 10
+ammo: {
+  void-c: {
+    damage: 1800
+	  speed: 24
+    splashDamage: 100
+  	splashDamageRadius: 20
+    hitEffect: blastExplosion
+	  knockback: 9
+	  lifetime: 53
+	  bulletWidth: 17
+	  bulletHeight: 22
+	  backColor: ffffff
+	  frontColor: 000000
+	  ammoMultiplier: 4
+	  hitSound: 
+  }
+}
+requirements: [
+  void-c/20
+  graphite/450
+  plastanium/250
+  surge-alloy/400
+  shadum-alloy/300
+]
+category: turret
+research: sems
+shootSound: megaboom
