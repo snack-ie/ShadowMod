@@ -11,13 +11,13 @@
 
  health: 5000
 
- engineSize: 1
+ engineSize: 16
  engineOffset: 21
 
  baseRotateSpeed: 0.1
  rotatespeed: 1
 
- buildPower: 5
+ buildPower: 4
  miningPower: 3
  mineSpeed: 4
  itemCapacity: 80
@@ -29,11 +29,11 @@
  weaponOffsetX: 1
 
  weapon: {
-   name: chaos-equip
+   name: shad-equip
    width: 10
    lenght: 5
-   lifetime: 280
-   range: 500
+   lifetime: 480
+   range: 800
    reload: 40
    recoil: 3
    shots: 4
