@@ -31,7 +31,7 @@ ammo: {
   }
 }
 requirements: [
-  void-c/20
+  void-c/5
   graphite/200
   plastanium/250
   surge-alloy/250
