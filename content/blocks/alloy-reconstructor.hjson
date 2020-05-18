@@ -13,7 +13,7 @@ consumes: {
   items: {
     items: titanium
     amount: 1
-  {
+  }
   liquid: {
     liquid: molten-shadum
     amount: 0.9
