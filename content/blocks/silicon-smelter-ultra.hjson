@@ -1,6 +1,6 @@
 name: Silicon smelter ultra
 type: GenericSmelter
-description: The ultimate silicon smelter, use the shadow technologie to transform shadum in silicon
+description: The ultimate silicon smelter, transform shadum in silicon
 size: 4
 solid: true
 hasItems: true
