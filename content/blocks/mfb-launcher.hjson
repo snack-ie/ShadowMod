@@ -1,7 +1,7 @@
 {
   "type": "artilleryTurret",
   "name": "M.F.B. Launcher",
-  "description": "Multi Fragmentation Bomb Launcher. Only use blast pyratite",
+  "description": "Multi Fragmentation Bomb Launcher. Only use pyratite",
   "size": 4,
   "health": 500,
   "shootEffect": "shootSmallSmoke",
@@ -27,11 +27,11 @@
    fragBullet:{
 		 "type": "BasicBulletType",
 		"speed": 4,
-		"splashDamage": 1,
-		"splashDamageRadius": 100,
+		"splashDamage": 3,
+		"splashDamageRadius": 160,
                 "incendAmount": 5
 		"lifetime": 30,
-		"collides": "true"
+		"collides": "false"
      }
     }
   },
