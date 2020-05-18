@@ -16,7 +16,7 @@ requirements: [
   }
   {
     type: Unlock
-    block: thorium-extractor
+    block: shadum-wall
   }
 ]
 resources: [
