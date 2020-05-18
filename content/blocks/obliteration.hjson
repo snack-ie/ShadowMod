@@ -1,12 +1,12 @@
 name: Obliteration
-description: The ultimate sniper, can obliterate everything. No recomended to kill fast units. Use with colant and overdriving. 36000 Damage per shoot.
+description: The ultimate sniper, can obliterate everything. No recomended to kill fast units. Use with colant and overdriving.
 type: itemTurret
 health: 2400
 size: 4
 reload: 900
 ammoUseEffect: shellEjectBig
-inaccuracy: 2
-rotatespeed: 0.50
+inaccuracy: 0
+rotatespeed: 0.66
 shootCone: 10
 range: 1200
 recoil: 10
@@ -17,7 +17,7 @@ shots: 1
 ammo: {
   void-c: {
     damage: 666
-	  speed: 24
+	  speed: 30
     splashDamage: 10000
   	splashDamageRadius: 40
     hitEffect: blastExplosion
@@ -31,7 +31,7 @@ ammo: {
   }
 }
 requirements: [
-  void-c/1
+  void-c/3
   graphite/200
   plastanium/250
   surge-alloy/250
