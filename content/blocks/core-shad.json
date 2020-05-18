@@ -6,8 +6,8 @@
 	"breakable": false,
 	"destructible": true,
 	"size": 6,
-	"itemCapacity": 26000,
-	"unloadable": true,
+	"itemCapacity": 21000,
+	"unloadable": false,
 	"requirements": [
 	    {
 			"item": "shadum-alloy",
