@@ -2,8 +2,8 @@ type: wall
 category: defense
 name: Shadum Wall
 description: A wall made out of Shadum.
-health: 1350
-research: thorium-wall
+health: 600
+research: titaniun-wall
 requirements: [
  shadum/6
 ]
