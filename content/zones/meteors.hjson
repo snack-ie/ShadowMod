@@ -1,0 +1,35 @@
+name: Meteors
+description: Unknown meteors have fallen in this area, the enemy is very interested in resources and is strong enemies to take the area, defend the place as much as you can
+loadout: basicNucleus
+startingItems: [
+  copper/500
+  lead/500
+  graphite/250
+]
+conditionWave: 30
+launchPeriod: 20
+requirements: [
+  {
+    type: ZoneWave
+    zone: shad-pro-complex
+    wave: 30
+  }
+  {
+    type: Unlock
+    block: shad2-drill
+  }
+  {
+  type: Unlock
+  block: shad-overdrive-projector
+]
+resources: [
+  copper
+  lead
+  coal
+  sand
+  shadum
+  titanium
+  scrap
+  thorium
+  void
+]
