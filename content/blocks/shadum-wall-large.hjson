@@ -2,7 +2,7 @@ type: wall
 category: defense
 name: Large Shadum wall
 description: A large wall made out of Shadum.
-health: 4300
+health: 1700
 size: 2
 research: shadum-wall
 requirements: [
