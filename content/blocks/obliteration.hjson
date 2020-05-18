@@ -32,10 +32,10 @@ ammo: {
 }
 requirements: [
   void-c/20
-  graphite/450
+  graphite/200
   plastanium/250
-  surge-alloy/400
-  shadum-alloy/300
+  surge-alloy/250
+  shadum-alloy/250
 ]
 category: turret
 research: sems
