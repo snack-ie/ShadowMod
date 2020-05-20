@@ -19,6 +19,7 @@ ammo: {
   void-c: {
     damage: 12900
 	  speed: 30
+          pierce: true
     hitEffect: blastExplosion
           hitSound: megaboom
 	  knockback: 6
