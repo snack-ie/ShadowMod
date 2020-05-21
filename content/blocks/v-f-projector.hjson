@@ -19,7 +19,7 @@
     }
   }
   category: effect
-	research: shad-force-projector
+	research: s-f-projector
   requirements: [
     shadum-alloy/150
     surge-alloy/50
