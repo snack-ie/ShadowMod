@@ -20,7 +20,7 @@ requirements: [
   }
   {
   type: Unlock
-  block: shad-overdrive-projector
+  block: s-o-projector
   }
 ]
 resources: [
