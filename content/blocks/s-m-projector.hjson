@@ -12,7 +12,7 @@
               power: 1.75
               items: {
                 items: [
-                  item: silicon/5
+                  silicon/5
                 ]
                 optional: true
                 booster: true
