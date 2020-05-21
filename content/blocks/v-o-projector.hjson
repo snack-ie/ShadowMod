@@ -16,7 +16,7 @@
   speedBoost: 6
   speedBoostPhase: 3
 	category: effect
-	research: shad-overdrive-projector
+	research: s-o-projector
   requirements: [
     void-c/1
     void/30
