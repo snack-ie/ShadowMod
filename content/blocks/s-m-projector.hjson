@@ -18,7 +18,7 @@
                 booster: true
               }
             }
-            requirements:
+            requirements: [
               titanium/30
               shadum-alloy/75
               silicon/50
