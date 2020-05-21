@@ -1,6 +1,7 @@
 {
   "type": "OverdriveProjector",
-  "name": "Advanced Overdrive Projector",
+  "name": "Shadum Overdrive Projector",
+  "description": "Advanced Overdrive Projector"
   "consumes": {
     "power": 6,
     "items": {
