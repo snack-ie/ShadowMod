@@ -1,0 +1,29 @@
+  type: ForceProjector
+  name: Shadum Force Projector
+  description: Advanced shield. Can take more damage, but need more time to re-stabilizes, useful against Boss Units (you will need this to defend against the VOID NUKER)
+  size: 3
+  phaseRadiusBoost: 80
+  radius: 140
+  breakage: 12999
+  cooldownNormal: 4
+  cooldownLiquid: 3
+  cooldownBrokenBase: 5
+  consumes: {
+    power: 8
+    items: {
+      items: [
+        void-c/1
+      ]
+      optional: true
+      booster: true
+    }
+  }
+  category: effect
+	research: shad-force-projector
+  requirements: [
+    shadum-alloy/150
+    surge-alloy/50
+    thorium/50
+    void-c/3
+    plastanium/100
+  ]

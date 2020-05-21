@@ -1,0 +1,28 @@
+  type: OverdriveProjector
+  name: Void Overdrive Projector
+  description: A projector capable to overdrive a large area. Need void cristals to run.
+  consumes: {
+    power: 8
+    items: {
+      items: [
+        void/1
+      ]
+      optional: false
+      booster: true
+    }
+  }
+  size: 2
+  range: 200
+  speedBoost: 6
+  speedBoostPhase: 3
+	category: effect
+	research: shad-overdrive-projector
+  requirements: [
+    void-c/1
+    void/30
+    shadum-alloy/200
+    surge-alloy/100
+    titanium/200
+    plastanium/100
+    phase-fabric/100
+  ]
