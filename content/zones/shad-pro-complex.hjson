@@ -6,6 +6,7 @@ startingItems: [
   graphite/500
   shadum/500
 ]
+loadout: basic-sc-loadout
 conditionWave: 10
 launchPeriod: 10
 requirements: [
