@@ -18,7 +18,7 @@
                 booster: true
               }
             }
-            requirements:
+            requirements: [
               titanium/100
               shadum-alloy/150
               surge-alloy/100
