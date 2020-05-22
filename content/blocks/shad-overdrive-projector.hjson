@@ -1,2 +1,21 @@
-name: No Block
-description: No Block
+  type: OverdriveProjector
+  name: BugFix
+  description: BugFix
+  consumes: {
+    power: 8
+    items: {
+      items: [
+        void/5
+      ]
+      optional: true
+      booster: true
+    }
+  }
+  size: 2
+  range: 160
+  speedBoost: 5
+  speedBoostPhase: 5
+	category: effect
+  requirements: [
+    void-c/13000
+  ]
