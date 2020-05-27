@@ -2,8 +2,8 @@
  name: Voider
  description: A void wraith with high speeds and low damage missiles.
  drag: 0.05
- maxSpeed: 2
- speed: 0.35
+ maxSpeed: 4
+ speed: 0.2
  mass: 10
  hitsize: 1
  health": 200
