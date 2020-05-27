@@ -1,5 +1,5 @@
-name: Obliteration
-description: The ultimate sniper, can obliterate everything. No recomended to kill fast units. Use with colant and overdriving.
+name: Obliteration Sniper
+description: The ultimate sniper, can obliterate large enemyes groups with few shoots. Not recomended to kill fast units. Use with colant and overdriving.
 type: itemTurret
 health: 2400
 size: 4
@@ -14,10 +14,9 @@ restitution: 0.003
 cooldown: 0.006
 heatColor: ff0000
 shots: 1
-shootSound: megalancer
 ammo: {
   void-c: {
-    damage: 12900
+    damage: 6000
 	  speed: 30
           pierce: true
     hitEffect: blastExplosion
