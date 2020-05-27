@@ -1,6 +1,6 @@
   type: FlyingUnit
- name: Dark interceptor
- description: A fighter with high speed and missiles, can pass through some defenses without being hit
+ name: Hyper Bomber
+ description: A hypersonic bomber made to pass through defenses at high speed and bomb enemy factories
  drag: 0.05
  maxSpeed: 6
  speed: 0.35
