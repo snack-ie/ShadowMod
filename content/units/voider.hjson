@@ -1,6 +1,6 @@
   type: FlyingUnit
  name: Voider
- description: A void wraith with high speeds and missiles.
+ description: A void wraith with high speeds and low damage missiles.
  drag: 0.05
  maxSpeed: 2
  speed: 0.35
@@ -33,7 +33,7 @@
 	bulletHeight: 13
 	lifetime: 100
 	speed: 3
-	damage: 5
+	damage: 1
 	frontColor: a488eb
 	backColor: 8b73c7
 	trailColor: cb00ff
