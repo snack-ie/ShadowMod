@@ -1,16 +1,16 @@
   type: FlyingUnit
- name: Hyper Bomber
- description: A hypersonic bomber made to pass through defenses at high speed and bomb enemy factories
+ name: Void Ghoul
+ description: A ghoul with strong armor and misseles, idk why.
  drag: 0.05
- maxSpeed: 6
+ maxSpeed: 1
  speed: 0.35
  mass: 1
  hitsize: 1
- health": 50
+ health: 600
  flying: true
  rotateWeapon: true
  engineOffset: 8
- engineSize: 0.01
+ engineSize: 0.0001
  rotatespeed: 7
  baseRotateSpeed: 7
  shootCone: 360
