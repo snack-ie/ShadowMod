@@ -2,7 +2,7 @@ type: GroundUnit
 name: Shocker
 description: a strong unit that shock the enemys with powerfulls lightnings
 speed: 0.15
-drag: 1
+drag: 0.5
 health: 1500
 reload: 240
 shotDelay: 60
