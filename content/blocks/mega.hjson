@@ -1,10 +1,10 @@
     size: 5
 	health: 3000
-	range: 215
-	reload: 90
-	coolantMultiplier: 0.7
+	range: 340
+	reload: 120
+	coolantMultiplier: 1.5
 	shootCone: 40
-	shootDuration: 180
+	shootDuration: 300
 	powerUse: 20
 	shootShake: 3
 	firingMoveFract: 0.2
@@ -26,7 +26,7 @@
 		}
 	}
 	requirements: [
-		void-c/10000
+		void-c/15
 	]
 	category: turret
 	research: meltdown
