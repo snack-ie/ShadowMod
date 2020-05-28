@@ -45,7 +45,7 @@ const megalaser = extend(BasicBulletType, {
 });
 
 megalaser.speed = 0.001;
-megalaser.damage = 100;
+megalaser.damage = 200;
 megalaser.lifetime = 18;
 megalaser.hitEffect = Fx.hitMeltdown;
 megalaser.despawnEffect = Fx.none;
