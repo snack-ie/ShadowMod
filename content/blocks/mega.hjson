@@ -5,28 +5,32 @@
 	coolantMultiplier: 1.5
 	shootCone: 40
 	shootDuration: 300
-	powerUse: 20
+	powerUse: 25
 	shootShake: 3
 	firingMoveFract: 0.2
 	shootEffect: shootBigSmoke
 	recoil: 8
 	localizedName: MEGABEAM
-	description: SCRIPT UNDER DEVELOPMENT
+	description: Recharges a large amount of energy extracted from shadrite core and shoots massive and wide beam at enemies, have long range but need a big time to reload.
 	hasPower: true
 	shootSound: laserbig
 	heatColor: e04300
-	rotatespeed: 3.5
 	activeSound: beam
 	activeSoundVolume: 3
 	hasLiquids: true
 	consumes: {
 		liquid: {
 			liquid: cryofluid
-			amount: 0.30
+			amount: 0.15
 		}
 	}
 	requirements: [
-		void-c/15
+		void-c/1
+                shadum-alloy/1000
+                surge-alloy/100
+                silicon/500
+                thorium/150
+                titanium/300
 	]
 	category: turret
 	research: meltdown
