@@ -11,7 +11,7 @@
 
  health: 5000
 
- engineSize: 16
+ engineSize: 0
  engineOffset: 21
 
  baseRotateSpeed: 0.1
