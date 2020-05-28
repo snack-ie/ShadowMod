@@ -62,12 +62,12 @@ megalaser.smokeEffect = Fx.none;
 const mega = extendContent(LaserTurret, "mega",{
 	generateIcons: function(){
 	return [
-		Core.atlas.find("shadowmod-block-5"),
-		Core.atlas.find("shadowmod-mega")
+		Core.atlas.find("shadow-mod-block-5"),
+		Core.atlas.find("shadow-mod-mega")
 	];},
 	
 	draw: function(tile){
-		Draw.rect(Core.atlas.find("shadowmod-block-5"), tile.drawx(), tile.drawy())
+		Draw.rect(Core.atlas.find("shadow-mod-block-5"), tile.drawx(), tile.drawy())
 	}
 });
 mega.shootType = megalaser;
