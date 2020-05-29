@@ -1,12 +1,11 @@
      localizedName: MEGABEAM
 	description: Recharges a large amount of energy extracted from shadrite core and shoots massive and wide beam at enemies, have long range but need a time to reload.
-        type: powerTurret
 	health: 3000
 	size: 5
 	reload: 300
-	range: 240
+	range: 180
 	shootCone: 25
-	heatColor: ff0000
+	heatColor: ff0001
 	ammoUseEffect: none
 	recoil: 8
 	powerUse: 5
