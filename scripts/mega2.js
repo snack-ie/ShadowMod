@@ -1,13 +1,13 @@
 const mega2Laser = extend(BasicBulletType, {
 	update: function(b){
 		if(b.timer.get(1, 17)){
-			Damage.collideLine(b, b.getTeam(), this.hitEffect, b.x, b.y, b.rot(), 250.0, false);
+			Damage.collideLine(b, b.getTeam(), this.hitEffect, b.x, b.y, b.rot(), 250.0, true);
 		};
 	},
 	
-	init: function(b){
+	/*init: function(b){
 		Damage.collideLine(b, b.getTeam(), this.hitEffect, b.x, b.y, b.rot(), 250.0);
-	},
+	},*/
 	
 	draw: function(b){
 		const colors = [Pal.lancerLaser.cpy().mul(1.0, 1.0, 1.0, 0.4), Pal.lancerLaser, Color.white];
