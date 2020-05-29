@@ -80,7 +80,7 @@ const megaShoot = newEffect(19, e => {
 	Fill.circle(e.x, e.y, e.fout() * 7.5);
 });
 
-const excal = extendContent(ChargeTurret, "megabeam", {});
+const mega = extendContent(ChargeTurret, "mega", {});
 
 mega.chargeBeginEffect = megaChargeBegin;
 mega.chargeEffect = Fx.lancerLaserCharge;
