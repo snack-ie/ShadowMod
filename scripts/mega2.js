@@ -5,9 +5,9 @@ const mega2Laser = extend(BasicBulletType, {
 		};
 	},
 	
-	/*init: function(b){
+	init: function(b){
 		Damage.collideLine(b, b.getTeam(), this.hitEffect, b.x, b.y, b.rot(), 250.0);
-	},*/
+	},
 	
 	draw: function(b){
 		const colors = [Pal.lancerLaser.cpy().mul(1.0, 1.0, 1.0, 0.4), Pal.lancerLaser, Color.white];
