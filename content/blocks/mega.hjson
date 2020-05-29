@@ -1,6 +1,6 @@
   type: itemTurret
   name: MEGABEAM
-  description: ?
+  description: Recharges a large amount of energy extracted from shadrite core and shoots massive and wide beam at enemies, have long range but need a big time to reload.
   size: 5
   range: 200
   reload: 300
