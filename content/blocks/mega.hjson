@@ -12,6 +12,7 @@
   shots: 20
   ammoUseEffect: none
   health: 3000
+  spread: 0
   shootSound: megalancer
   ammo: {
     void: lancerLaser
