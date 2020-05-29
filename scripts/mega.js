@@ -5,9 +5,9 @@ const megaLaser = extend(BasicBulletType, {
 		};
 	},
 	
-	/*init: function(b){
+	init: function(b){
 		Damage.collideLine(b, b.getTeam(), this.hitEffect, b.x, b.y, b.rot(), 190.0);
-	},*/
+	},
 	
 	draw: function(b){
 		const colors = [Pal.lancerLaser.cpy().mul(1.0, 1.0, 1.0, 0.4), Pal.lancerLaser, Color.white];
@@ -17,7 +17,7 @@ const megaLaser = extend(BasicBulletType, {
 		const f = Mathf.curve(b.fin(), 0.0, 0.2);
 		const baseLen = length * f;
 
-		//Lines.lineAngle(b.x, b.y, b.rot(), baseLen);
+		Lines.lineAngle(b.x, b.y, b.rot(), baseLen);
 		for(var s = 0; s < 3; s++){
 			Draw.color(colors[s]);
 			for(var i = 0; i < 4; i++){
@@ -54,20 +54,20 @@ const megaLaserShootSmoke = newEffect(26, e => {
 	Angles.randLenVectors(e.id, 9, 95.0, e.rotation, 0.0, hl);
 });
 
-/*const megaCharge = newEffect(28, e => {
+const megaCharge = newEffect(28, e => {
 	Draw.color(Color.valueOf("a9d8ff"));
 
 	Angles.randLenVectors(e.id, 2, 1 + 20 * e.fout(), e.rotation, 180, (x, y) => {
 		Lines.lineAngle(e.x + x, e.y + y, Mathf.angle(x, y), e.fslope() * 3 + 1);
 	});
-});*/
+});
 
 const megaShoot = newEffect(19, e => {
 	Draw.color(Color.valueOf("a9d8ff"));
 
-	/*for(var i = 1; i < 5; i++){
+	for(var i = 1; i < 5; i++){
 		Drawf.tri(e.x, e.y, 9 * e.fout(), 36 + e.fin() * 6, e.rotation + 90 * i);
-	};*/
+	};
 	
 	for(var i = 0; i < 2; i++){
 		Drawf.tri(e.x, e.y, 9 * e.fout(), 36 + e.fin() * 6, e.rotation + 90 + (180 * i));
