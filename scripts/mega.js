@@ -84,6 +84,6 @@ const mega = extendContent(ChargeTurret, "mega", {});
 
 mega.chargeBeginEffect = megaChargeBegin;
 mega.chargeEffect = Fx.lancerLaserCharge;
-mega.smokeEffect = excalLaserShootSmoke;
-mega.shootEffect = excalShoot;
-mega.shootType = excalLaser;
+mega.smokeEffect = megaLaserShootSmoke;
+mega.shootEffect = megaShoot;
+mega.shootType = megaLaser;
