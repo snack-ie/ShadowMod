@@ -1,0 +1,33 @@
+  type: BurstTurret
+  name: MEGABEAM
+  description: ?
+  size: 5
+  range: 200
+  reload: 300
+  restitution: 0.02
+  ammoEjectBack: 3
+  cooldown: 0.02
+  recoil: 8
+  shootShake: 2
+  burstSpacing: 0
+  shots: 20
+  ammoUseEffect: none
+  health: 3000
+  shootSound: megalancer
+  ammo: {
+    void:{
+      type: lancerLaser
+      ammoMultiplier: 20
+    }
+  }
+  requirements: [
+		void-c/1
+		surge-alloy/250
+		shadum-alloy/500
+		thorium/50
+		silicon/50
+		titanium/100
+	]
+  category: turret
+  research: lats
+
