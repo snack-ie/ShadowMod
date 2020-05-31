@@ -3,7 +3,7 @@
 	description: Produces shadow coolant, used in some turrets and machines.
 	outputLiquid: {
        liquid: shadow-coolant
-       amount: 1
+       amount: 24
     }
 	size: 2
 	hasPower: true
@@ -18,7 +18,7 @@
 		}
 		liquid: {
 			liquid: cryofluid
-			amount: 0.25
+			amount: 0.2
 		}
 	}
 	requirements: [
