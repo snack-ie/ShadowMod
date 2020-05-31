@@ -24,7 +24,7 @@ requirements: [
   shadum-alloy/200
 ]
 category: crafting
-research: shadow-c-compressor
+research: shadow-c-c
 idleSound: respawning
 idleSoundVolume: 0.5
 outputItem: void/1
