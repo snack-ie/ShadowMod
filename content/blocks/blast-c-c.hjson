@@ -1,0 +1,29 @@
+type: GenericSmelter
+name: Blast Charge Compressor
+description: Extract the explossive power from blast compound and compress in a capsule.
+size: 3
+hasPower: true
+hasItems: true
+craftTime: 150
+itemCapacity: 20
+updateEffect: smeltsmoke
+consumes: {
+  power: 1.5
+  items: {
+    items: [
+      e-capsule/1
+      blast-compound/10
+    ]
+  }
+}
+requirements: [
+  lead/100
+  titanium/160
+  silicon/45
+  plastanium/45
+]
+category: crafting
+research: cap-fac
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: b-charge/1

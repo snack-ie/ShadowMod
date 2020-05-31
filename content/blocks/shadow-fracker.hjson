@@ -1,0 +1,30 @@
+    name: Shadow Coolant Sintetizer
+	description: Produces shadow coolant, used in some turrets and machines.
+	outputLiquid: {
+       liquid: shadow-coolant
+       amount: 1
+    }
+	size: 2
+	hasPower: true
+	hasItems: true
+	craftTime: 120
+	consumes: {
+		power: 2
+		items: {
+			items: [
+				shadum/1
+			]
+		}
+		liquid: {
+			liquid: cryofluid
+			amount: 0.25
+		}
+	}
+	requirements: [
+		shadum-alloy/75
+		silicon/50
+		plastanium/30
+		metaglass/30
+	]
+	category: crafting
+	research: cryofluid-mixer

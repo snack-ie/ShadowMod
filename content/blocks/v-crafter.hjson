@@ -1,0 +1,30 @@
+type: GenericSmelter
+name: Void Extractor
+description: Extract power from charges to craft VOID.
+size: 3
+hasPower: true
+hasItems: true
+craftTime: 180
+itemCapacity: 10
+updateEffect: smeltsmoke
+consumes: {
+  power: 5
+  items: {
+    items: [
+      r-charge/1
+      b-charge/1
+      s-charge/1
+    ]
+  }
+}
+requirements: [
+  thorium/50
+  titanium/150
+  silicon/75
+  shadum-alloy/200
+]
+category: crafting
+research: shadow-c-compressor
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: void/1

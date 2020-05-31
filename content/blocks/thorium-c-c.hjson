@@ -1,0 +1,29 @@
+type: GenericSmelter
+name: Radioactive Charge Compressor
+description: Extract the radioactive power from thorium and compress in a capsule.
+size: 3
+hasPower: true
+hasItems: true
+craftTime: 150
+itemCapacity: 20
+updateEffect: smeltsmoke
+consumes: {
+  power: 1.5
+  items: {
+    items: [
+      e-capsule/1
+      thorium/10
+    ]
+  }
+}
+requirements: [
+  lead/100
+  titanium/160
+  silicon/45
+  thorium/45
+]
+category: crafting
+research: blast-c-c
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: r-charge/1
