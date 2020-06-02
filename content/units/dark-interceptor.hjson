@@ -2,8 +2,8 @@
  name: Void Ghoul
  description: A ghoul with strong armor and misseles, idk why.
  drag: 0.05
- maxSpeed: 35
- speed: 0.15
+ maxSpeed: 1
+ speed: 0.1
  mass: 1
  hitsize: 1
  health: 600
