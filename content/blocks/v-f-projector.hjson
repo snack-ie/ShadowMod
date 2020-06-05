@@ -1,6 +1,6 @@
   type: ForceProjector
   name: Void Force Projector
-  description: Advanced shield. Can take more damage, but need more time to re-stabilizes, useful against Boss Units (you will need this to defend against the VOID NUKER)
+  description: Advanced shield. Can take more damage, but need more time to re-stabilizes, useful against Boss Units.
   size: 3
   phaseRadiusBoost: 80
   radius: 140
