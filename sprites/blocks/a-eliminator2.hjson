@@ -1,0 +1,66 @@
+name: Aerial Obliterator
+description: A modified Aerial Eliminator with piercing bullets and high damage.
+type: itemTurret
+health: 600
+size: 4
+reload: 90
+ammoUseEffect: shellEjectBig
+inaccuracy: 0
+rotatespeed: 99
+shootCone: 1
+range: 160
+recoil: 2
+restitution: 0.3
+cooldown: 0.006
+heatColor: ff0000
+shots: 1
+targetGround: false
+ammo: {
+  s-charge: {
+    damage:800
+	  speed: 160
+	  pierce: true
+    hitEffect: blastExplosion
+	  knockback: 5
+	  lifetime: 2
+	  bulletWidth: 3
+	  bulletHeight: 9
+	  backColor: 1000aa
+	  frontColor: 1000aa
+	  ammoMultiplier: 6
+  }
+    b-charge: {
+       pierce: true
+    damage: 100
+	  speed: 160
+    hitEffect: blastExplosion
+	  knockback: 3
+	  lifetime: 2
+	  bulletWidth: 3
+	  bulletHeight: 9
+	  backColor: ff7500
+	  frontColor: ff7500
+	  ammoMultiplier: 6
+  }
+  r-charge: {
+     pierce: true
+    damage: 600
+	  speed: 160
+    hitEffect: blastExplosion
+	  knockback: 3
+	  lifetime: 2
+	  bulletWidth: 3
+	  bulletHeight: 9
+	  backColor: aa0099
+	  frontColor: aa0099
+	  ammoMultiplier: 6
+  }
+}
+requirements: [
+  surge-alloy/10
+  thorium/100
+  titanium/150
+  graphite/30
+]
+category: turret
+research: a-eliminator
