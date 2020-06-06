@@ -1,4 +1,4 @@
-     type: GenericCrafter
+     type: GenericSmelter
 	name: Void Estabilizer
 	description: Estabilize and encapsule void, creating void charges
 	health: 80
@@ -9,6 +9,7 @@
 	hasItems: true
 	craftTime: 600
 	updateEffect: smeltsmoke
+        flameColor: cc00ff
 	consumes: {
 		power: 20
 		items: {
