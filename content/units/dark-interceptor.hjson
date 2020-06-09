@@ -24,3 +24,4 @@
   ejectEffect: shellEjectBig
   shootSound: artillery
   bullet: bombIncendiary
+}
