@@ -1,13 +1,10 @@
   type: ForceProjector
   name: Shadum Force Projector
-  description: Advanced shield. Is weaker but can re-stabilizes faster, very effective when used against snipers.
+  description: Shadum Force Projector.
   size: 3
   phaseRadiusBoost: 60
   radius: 80
-  breakage: 100
-  cooldownNormal: 0.175
-  cooldownLiquid: 0.15
-  cooldownBrokenBase: 0.035
+  breakage: 3000
   consumes: {
     power: 2
     items: {
