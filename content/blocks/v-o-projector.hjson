@@ -1,6 +1,6 @@
   type: OverdriveProjector
   name: Void Overdrive Projector
-  description: A projector capable to overdrive a large area. Need void cristals to run.
+  description: A projector capable to overdrive a large area. Need void crystals to run.
   consumes: {
     power: 8
     items: {
