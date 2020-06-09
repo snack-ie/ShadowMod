@@ -5,9 +5,9 @@
   phaseRadiusBoost: 60
   radius: 80
   breakage: 100
-  cooldownNormal: 0.2
+  cooldownNormal: 0.1
   cooldownLiquid: 0.1
-  cooldownBrokenBase: 0.3
+  cooldownBrokenBase: 0.1
   consumes: {
     power: 2
     items: {
