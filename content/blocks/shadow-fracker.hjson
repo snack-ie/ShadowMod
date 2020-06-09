@@ -1,5 +1,5 @@
         type: genericCrafter
-    name: Shadow Coolant Sintetizer
+    name: Shadow Coolant Synthesizer
 	description: Produces shadow coolant, used in some turrets and machines.
 	outputLiquid: {
        liquid: shadow-coolant
