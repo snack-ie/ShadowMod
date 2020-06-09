@@ -1,6 +1,6 @@
 type: GenericCrafter
-name: Shadow collector
-description: use power to collect shadum shards from the nothing
+name: Shadow Collector
+description: use power to collect shadum shards from nothing
 size: 2
 hasPower: true
 hasItems: true
