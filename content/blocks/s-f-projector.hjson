@@ -6,8 +6,8 @@
   radius: 80
   breakage: 10
   cooldownNormal: 0.2
-  cooldownLiquid: 0.1
-  cooldownBrokenBase: 0.3
+  cooldownLiquid: 0.3
+  cooldownBrokenBase: 0.1
   consumes: {
     power: 2
     items: {
