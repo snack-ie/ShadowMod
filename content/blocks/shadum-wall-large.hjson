@@ -1,6 +1,6 @@
 type: wall
 category: defense
-name: Large Shadum wall
+name: Large Shadum Wall
 description: A large wall made out of Shadum.
 health: 1700
 size: 2
