@@ -17,7 +17,7 @@
   weapon: {
   name: msssi
   length: 0
-  reload: 300
+  reload: 420
   width: 1
   alternate: true
   recoil: 3
@@ -31,8 +31,8 @@
     type: basicBulletType
 	bulletWidth: 9
 	bulletHeight: 13
-	lifetime: 80
-	speed: 10
+	lifetime: 8
+	speed: 20
 	damage: 400
 	frontColor: a488eb
 	backColor: 8b73c7
