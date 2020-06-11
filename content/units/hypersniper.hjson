@@ -8,7 +8,7 @@
  hitsize: 3
  health: 700
  flying: true
- rotateWeapon: true
+ rotateWeapon: false
  engineOffset: 8
  engineSize: 0
  rotatespeed: 3
@@ -31,8 +31,8 @@
     type: basicBulletType
 	bulletWidth: 9
 	bulletHeight: 13
-	lifetime: 16
-	speed: 5
+	lifetime: 8
+	speed: 10
 	damage: 39
 	frontColor: a488eb
 	backColor: 8b73c7
