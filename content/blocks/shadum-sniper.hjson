@@ -6,7 +6,7 @@ category: turret
 size: 2
 hasLiquids: true
 requirements: [
- shadum/50
+ shadum-alloy/200
  copper/100
  titanium/125
 ]
