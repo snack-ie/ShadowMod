@@ -2,8 +2,8 @@
  name: Hyper Shooter
  description: This unit must be destroyed as quickly as possible, it does little damage but every 5 seconds it will start shooting faster and faster doesing to much damage.
  drag: 0.1
- maxSpeed: 1
- speed: 0.2
+ maxSpeed: 0.2
+ speed: 0.1
  mass: 2
  hitsize: 3
  health: 6000
