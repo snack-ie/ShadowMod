@@ -1,6 +1,6 @@
-  type: hoverUnit
+  type: flyingUnit
  name: Hyper Shooter
- description: Usually this unit follows the player but does not attack, if you get close many things will be destroyed.
+ description: This unit must be destroyed as quickly as possible, it does little damage but every 5 seconds it will start shooting faster and faster doesing to much damage.
  drag: 0.1
  maxSpeed: 1
  speed: 0.2
@@ -8,32 +8,32 @@
  hitsize: 3
  health: 6000
  flying: true
- rotateWeapon: true
+ rotateWeapon: false
  engineOffset: 8
  engineSize: 0
  rotatespeed: 3
  baseRotateSpeed: 1
- shootCone: 60
+ shootCone: 360
   weapon: {
-  name: msssi
+  name: i-sniper
   length: 0
-  reload: 420
+  reload: 300
   width: 1
   alternate: true
   recoil: 3
   shake: 1
-  shots: 20
-  spacing: 10
-  shotDelay: 10
+  shots: 9999999999999999999999999999999999999999
+  spacing: 60
+  shotDelay: 60
   ejectEffect: shellEjectBig
   shootSound: artillery
   bullet: {
     type: basicBulletType
 	bulletWidth: 9
 	bulletHeight: 13
-	lifetime: 4
-	speed: 10
-	damage: 400
+	lifetime: 30
+	speed: 30
+	damage: 10
 	frontColor: a488eb
 	backColor: 8b73c7
 	status: burning
