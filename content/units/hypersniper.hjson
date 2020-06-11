@@ -1,19 +1,19 @@
   type: flyingUnit
  name: Hyper Shooter
- description: This unit must be destroyed as quickly as possible, it does little damage but every 5 seconds it will start shooting faster and faster doesing to much damage.
+ description: Sniper Unit.
  drag: 0.1
  maxSpeed: 0.2
  speed: 0.1
  mass: 2
  hitsize: 3
- health: 6000
+ health: 500
  flying: true
  rotateWeapon: false
- engineOffset: 8
- engineSize: 0
+ engineOffset: 10
+ engineSize: 4
  rotatespeed: 3
  baseRotateSpeed: 1
- shootCone: 360
+ shootCone: 90
   weapon: {
   name: i-sniper
   length: 0
@@ -22,7 +22,7 @@
   alternate: true
   recoil: 3
   shake: 1
-  shots: 9999999999999999999999999999999999999999
+  shots: 1
   spacing: 60
   shotDelay: 60
   ejectEffect: shellEjectBig
@@ -33,7 +33,7 @@
 	bulletHeight: 13
 	lifetime: 30
 	speed: 30
-	damage: 10
+	damage: 50
 	frontColor: a488eb
 	backColor: 8b73c7
 	status: burning
