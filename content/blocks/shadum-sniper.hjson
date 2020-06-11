@@ -14,7 +14,7 @@ ammo: {
  shadum: {
    type: basicBulletType
      lifetime: 250
-     damage: 87
+     damage: 50
      speed: 30
      splashDamageRadius: 2
      splashDamage: 46
@@ -23,5 +23,5 @@ ammo: {
 }
 ammoPerShoot: 1
 range: 600
-reload: 100
+reload: 180
 research: salvo
