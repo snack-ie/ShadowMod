@@ -1,4 +1,5 @@
-    name: MegaBeam
+  type: cooledTurret
+  name: MegaBeam
    descriptiom: Recharges a large amount of energy and shoots a massive and wide beam at enemies.
     size: 5
 	health: 3200
