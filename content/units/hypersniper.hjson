@@ -22,7 +22,7 @@
   alternate: true
   recoil: 3
   shake: 1
-  shots: 200
+  shots: 20
   spacing: 10
   shotDelay: 10
   ejectEffect: shellEjectBig
