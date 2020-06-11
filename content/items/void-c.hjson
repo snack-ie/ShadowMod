@@ -2,5 +2,5 @@ type: material
 name: Void Charge
 description:
 it is more stable and offers less risk than a pure void, can be used as a power source
-cost: 1800
+cost: 180
 color: 000000
