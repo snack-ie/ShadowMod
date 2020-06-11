@@ -13,7 +13,7 @@
  engineSize: 0
  rotatespeed: 3
  baseRotateSpeed: 1
- shootCone: 360
+ shootCone: 60
   weapon: {
   name: msssi
   length: 0
