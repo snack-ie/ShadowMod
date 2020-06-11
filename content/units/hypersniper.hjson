@@ -31,8 +31,8 @@
     type: basicBulletType
 	bulletWidth: 9
 	bulletHeight: 13
-	lifetime: 8
-	speed: 20
+	lifetime: 4
+	speed: 10
 	damage: 400
 	frontColor: a488eb
 	backColor: 8b73c7
