@@ -2,7 +2,7 @@ type: material
 name:Void Crystal
 description:A shard of the void, extremely unstable, can be used to craft high durable materials and new type of technologies of the void
 hardness: 6
-cost: 3
+cost: 6
 explosiveness: 100
 radioactivity: 100
 flammability: 100
