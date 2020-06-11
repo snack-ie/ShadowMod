@@ -1,28 +1,28 @@
   type: hoverUnit
  name: Hyper Shooter
- description: It is a flying unit with an improved shadum sniper.\nAlways attacks from afar and out of defense range.
+ description: It is a flying unit with an improved shadum sniper. Always attacks from afar and out of defense range. There is a chance that the unit will stop working due to the pressure the sniper puts when firing.
  drag: 0.1
- maxSpeed: 0.8
+ maxSpeed: 0.4
  speed: 0.2
  mass: 2
  hitsize: 3
  health: 700
  flying: true
- rotateWeapon: false
+ rotateWeapon: true
  engineOffset: 8
  engineSize: 0
  rotatespeed: 3
  baseRotateSpeed: 1
- shootCone: 90
+ shootCone: 360
   weapon: {
-  name: duo-sniper
+  name: sniper-ssems-ifu
   length: 0
-  reload: 120
+  reload: 300
   width: 1
   alternate: true
   recoil: 3
   shake: 1
-  shots: 2
+  shots: 1
   spacing: 10
   shotDelay: 10
   ejectEffect: shellEjectBig
@@ -33,7 +33,7 @@
 	bulletHeight: 13
 	lifetime: 8
 	speed: 10
-	damage: 39
+	damage: 400
 	frontColor: a488eb
 	backColor: 8b73c7
 	status: burning
