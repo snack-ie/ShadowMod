@@ -1,16 +1,16 @@
   type: hoverUnit
  name: Hyper Shooter
  description: It is a flying unit with an improved shadum sniper.\nAlways attacks from afar and out of defense range.
- drag: 1
- maxSpeed: 0.5
+ drag: 0.1
+ maxSpeed: 0.8
  speed: 0.2
- mass: 5
+ mass: 2
  hitsize: 3
  health: 700
  flying: true
  rotateWeapon: true
  engineOffset: 8
- engineSize: 0.0001
+ engineSize: 0
  rotatespeed: 3
  baseRotateSpeed: 1
  shootCone: 90
