@@ -1,0 +1,43 @@
+  type: revenantUnit
+ name: Hyper Shooter
+ description: It is a flying unit with an improved shadum sniper.\nAlways attacks from afar and out of defense range.
+ drag: 1
+ maxSpeed: 0.5
+ speed: 0.2
+ mass: 5
+ hitsize: 3
+ health: 700
+ flying: true
+ rotateWeapon: true
+ engineOffset: 8
+ engineSize: 0.0001
+ rotatespeed: 3
+ baseRotateSpeed: 1
+ shootCone: 90
+  weapon: {
+  name: duo-sniper
+  length: 0
+  reload: 120
+  width: 1
+  alternate: true
+  recoil: 3
+  shake: 1
+  shots: 2
+  spacing: 10
+  shotDelay: 10
+  ejectEffect: shellEjectBig
+  shootSound: artillery
+  bullet: {
+    type: basicBulletType
+	bulletWidth: 9
+	bulletHeight: 13
+	lifetime: 16
+	speed: 5
+	damage: 39
+	frontColor: a488eb
+	backColor: 8b73c7
+	status: burning
+	hitEffect: blastExplosion
+	despawnEffect: blastExplosion
+	}
+  }
