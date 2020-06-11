@@ -1,12 +1,12 @@
   type: hoverUnit
  name: Hyper Shooter
- description: It is a flying unit with an improved shadum sniper. Always attacks from afar and out of defense range. There is a chance that the unit will stop working due to the pressure the sniper puts when firing.
+ description: Usually this unit follows the player but does not attack, if you get close many things will be destroyed.
  drag: 0.1
- maxSpeed: 0.4
+ maxSpeed: 1
  speed: 0.2
  mass: 2
  hitsize: 3
- health: 700
+ health: 6000
  flying: true
  rotateWeapon: true
  engineOffset: 8
@@ -15,14 +15,14 @@
  baseRotateSpeed: 1
  shootCone: 360
   weapon: {
-  name: sniper-ssems-ifu
+  name: msssi
   length: 0
   reload: 300
   width: 1
   alternate: true
   recoil: 3
   shake: 1
-  shots: 1
+  shots: 200
   spacing: 10
   shotDelay: 10
   ejectEffect: shellEjectBig
