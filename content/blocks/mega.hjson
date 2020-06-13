@@ -13,7 +13,7 @@
 	firingMoveFract: 0.35
 	shootEffect: shootBigSmoke
 	recoil: 10
-	description: nothing
+	description: Emo version of meltdown
 	hasPower: true
 	shootSound: laserbig
 	heatColor: e04300
