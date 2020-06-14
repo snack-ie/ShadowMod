@@ -1,6 +1,6 @@
   type: OverdriveProjector
-  name: BugFix
-  description: BugFix
+  name: Sandbox Overdriver
+  description: Sandbox overdriver
   consumes: {
     power: 8
     items: {
@@ -12,9 +12,9 @@
     }
   }
   size: 2
-  range: 160
-  speedBoost: 10
-  speedBoostPhase: 100
+  range: 10
+  speedBoost: 100
+  speedBoostPhase: 10000
 	category: effect
   requirements: [
     void-c/13000
