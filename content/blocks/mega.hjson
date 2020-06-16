@@ -1,0 +1,27 @@
+  type: LaserTurret
+  name: MegaBeam
+  description: Recharges a large amount of energy and shoots a massive and wide beam at enemies.
+  health: 3000
+  shootSound: laserbig
+  activeSound: beam
+  range: 256
+  reload: 60
+  size: 5
+  targetAir: true
+  heatColor: ff0000
+  hasPower: true
+  firingMoveFract: 0.75
+  shootDuration: 600
+  shootType: meltdownLaser
+  powerUse: 20
+  coolantMultiplier: 5
+  requirements: [
+    shadum-alloy/500
+    surge-alloy/500
+    void-c/1
+    thorium/100
+    plastanium/100
+    silicon/150
+  ]
+  category: turret
+  research: meltdown
