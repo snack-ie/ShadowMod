@@ -1,6 +1,6 @@
   type: flyingUnit
 	name: Leviathan
-  description: It's an airbone fortres equiped with an amplified long range S.E.M.M.G
+  description: It's a boss unit equiped with an amplified S.E.M.M.G with extreme range.
   drag: 0.15
 	speed: 0.02
 	mass: 80
