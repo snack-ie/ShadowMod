@@ -1,7 +1,7 @@
 {
 	"type": "Revenant",
 	"name": "Gleipnir",
-	"description": "An airbone fortress equiped with an amplified S.E.M.S",
+	"description": "A stronger boss unit equiped with an amplified S.E.M.S",
 	
   "drag": 0.15,
 	"speed": 0.05,
