@@ -16,23 +16,23 @@ ammo: {
  shadum-alloy: {
    type: basicBulletType
      lifetime: 500
-     damage: 800
+     damage: 600
      speed: 30
      splashDamageRadius: 1
-     splashDamage: 92
+     splashDamage: 50
      status: burning
          }
  shadum: {
    type: basicBulletType
      lifetime: 500
-     damage: 400
+     damage: 300
      speed: 30
      splashDamageRadius: 1
-     splashDamage: 92
+     splashDamage: 50
      status: burning
          }
 }
 ammoPerShoot: 3
-range: 1200
+range: 640
 reload: 180
 research: shadum-sniper
