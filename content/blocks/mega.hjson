@@ -1,6 +1,6 @@
   type: LaserTurret
   name: MegaBeam
-  description: Recharges a large amount of energy and shoots a massive and wide beam at enemies.
+  description: Shoots a massive, wide and continuous beam at enemies.
   health: 3000
   shootSound: laserbig
   activeSound: beam
@@ -14,7 +14,7 @@
   shootDuration: 600
   shootType: meltdownLaser
   powerUse: 20
-  coolantMultiplier: 5
+  coolantMultiplier: 1
   requirements: [
     shadum-alloy/500
     surge-alloy/500
