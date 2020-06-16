@@ -17,11 +17,11 @@ ammo: {
      damage: 50
      speed: 30
      splashDamageRadius: 2
-     splashDamage: 46
+     splashDamage: 10
      status: burning
          }
 }
 ammoPerShoot: 1
-range: 600
+range: 320
 reload: 180
 research: salvo
