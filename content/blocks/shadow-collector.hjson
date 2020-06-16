@@ -15,6 +15,7 @@ requirements: [
   lead/60
   silicon/40
   titanium/20
+  phase-fabric/30
 ]
 category: production
 research: oil-extractor
