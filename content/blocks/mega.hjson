@@ -5,7 +5,7 @@
   shootSound: laserbig
   activeSound: beam
   range: 256
-  reload: 60
+  reload: 0.5
   size: 5
   targetAir: true
   heatColor: ff0000
