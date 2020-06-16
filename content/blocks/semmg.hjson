@@ -1,7 +1,7 @@
 {
   "type": "BurstTurret",
   "name": "S.E.M.M.G",
-  "description": "Shadum EletroMagnetic Machine Gun. Causes high damage in long range.",
+  "description": "Shadum Electro Magnetic Machine Gun. Causes high damage in long range.",
   "size": 4,
   "range": 400,
   "reload": 45,
