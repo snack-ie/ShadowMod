@@ -11,10 +11,7 @@ baseExplosiveness: 5000
 itemDuration: 300
 explosionRadius: 80
 explosionDamage: 10000
-plasma1: cc00ff
-plasma2: 9d00c4
 plasmas: 4
-buildCostMultiplier: 1
 powerProduction: 382.33
 consumes: {
   power: 30
