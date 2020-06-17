@@ -1,0 +1,45 @@
+type: ImpactReactor
+name: Void Reactor
+description: Utilizes the temperature difference between shadow coolant and void charges to generate too much energy. Takes a significant amount of time and initial power input to operate at maximum power.
+itemCapacity: 10
+hasLiquids: true
+health: 5000
+baseExplosiveness: 9000
+size: 5
+warmupSpeed: 0.00010
+baseExplosiveness: 5000
+itemDuration: 300
+explosionRadius: 80
+explosionDamage: 10000
+plasma1: cc00ff
+plasma2: 9d00c4
+plasmas: 4
+buildCostMultiplier: 1
+powerProduction: 382.33
+consumes: {
+  power: 30
+  items: {
+    items: [
+      void-c/1
+    ]
+  }
+  liquid: {
+    liquid: shadow-coolant
+    amount: 0.4
+}
+requirements: [
+  shadum-alloy/500
+  titanium/600
+  silicon/400
+  surge-alloy/500
+  phase-fabric/50
+  thorium/250
+  void-c/1
+  void/100
+]
+category: power
+research: impact-reactor
+activeSound: thruster
+activeSoundVolume: 0.85
+idleSound: respawning
+idleSoundVolume: 0.25

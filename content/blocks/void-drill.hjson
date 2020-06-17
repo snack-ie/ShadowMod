@@ -1,0 +1,33 @@
+type: drill
+name: Shadum Drill
+description: A powerfull drill maded with void.
+size: 4
+update: true
+tier: 8
+hasPower: true
+hasLiquids: true
+hasItems: true
+drillTime: 60
+drawRim: true
+drawMineItem: true
+updateEffect: pulverizeMedium
+drillEffect: mineBig
+heatColor: ff8000
+liquidBoostIntensity: 3
+consumes: {
+  power: 3
+  liquid: {
+    liquid: molten-shadum
+    amount:0.3
+    booster: true
+  }
+}
+requirements: [
+  titanium/100
+  shadum-alloy/300
+  silicon/100
+  void/100
+  surge-alloy/150
+]
+category: production
+research: shad2-drill

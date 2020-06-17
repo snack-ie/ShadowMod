@@ -1,0 +1,29 @@
+name: Gleipnir Factory
+description: Makes Gleipnirs, stronger flyer units with powerfull snipers.
+type: UnitFactory
+unitType: dark-interceptor
+size: 7
+produceTime: 6000
+maxSpawn: 2
+consumes: {
+  power: 10
+  items: {
+    items: [
+      shadum-alloy/1000
+      silicon/300
+      void-c/10
+      thorium/500
+      titanium/1000
+    ]
+  }
+}
+category: units
+research: dark-interceptor-fac
+requirements: [
+  shadum-alloy/1000
+  silicon/300
+  titanium/500
+  thorium/200
+  surge-alloy/500
+  phase-fabric/100
+]
