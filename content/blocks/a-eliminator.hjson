@@ -1,0 +1,63 @@
+name: Aerial Eliminator
+description: A modified scatter maded to hit fast air units with high speed bullets.
+type: itemTurret
+health: 600
+size: 2
+reload: 30
+ammoUseEffect: shellEjectBig
+inaccuracy: 0
+rotatespeed: 99
+shootCone: 1
+range: 160
+recoil: 2
+restitution: 0.3
+cooldown: 0.006
+heatColor: ff0000
+shots: 1
+targetGround: false
+ammo: {
+  copper: {
+    damage: 5
+	  speed: 160
+    hitEffect: blastExplosion
+	  knockback: 3
+	  lifetime: 2
+	  bulletWidth: 3
+	  bulletHeight: 9
+	  backColor: ff7500
+	  frontColor: ff7500
+	  ammoMultiplier: 3
+  }
+    titanium: {
+    damage: 10
+	  speed: 160
+    hitEffect: blastExplosion
+	  knockback: 3
+	  lifetime: 2
+	  bulletWidth: 3
+	  bulletHeight: 9
+	  backColor: 1000aa
+	  frontColor: 1000aa
+	  ammoMultiplier: 3
+  }
+  thorium: {
+    damage: 15
+	  speed: 160
+    hitEffect: blastExplosion
+	  knockback: 3
+	  lifetime: 2
+	  bulletWidth: 3
+	  bulletHeight: 9
+	  backColor: aa0099
+	  frontColor: aa0099
+	  ammoMultiplier: 3
+  }
+}
+requirements: [
+  copper/50
+  lead/100
+  titanium/150
+  graphite/30
+]
+category: turret
+research: scatter
