@@ -2,7 +2,7 @@ name: Gleipnir Factory
 description: Makes Gleipnirs, stronger flyer units with powerfull snipers.
 type: UnitFactory
 unitType: gleipnir
-size: 7
+size: 6
 produceTime: 6000
 maxSpawn: 2
 consumes: {
