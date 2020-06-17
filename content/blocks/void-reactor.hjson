@@ -26,6 +26,7 @@ consumes: {
   liquid: {
     liquid: shadow-coolant
     amount: 0.4
+  }
 }
 requirements: [
   shadum-alloy/500
