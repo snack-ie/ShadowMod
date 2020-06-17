@@ -17,7 +17,7 @@ shots: 1
 targetGround: false
 ammo: {
   copper: {
-    damage: 5
+    damage: 15
 	  speed: 160
     hitEffect: blastExplosion
 	  knockback: 3
@@ -26,31 +26,47 @@ ammo: {
 	  bulletHeight: 9
 	  backColor: ff7500
 	  frontColor: ff7500
-	  ammoMultiplier: 3
+	  ammoMultiplier: 9
   }
-    titanium: {
-    damage: 10
+    graphite: {
+    damage: 30
 	  speed: 160
     hitEffect: blastExplosion
 	  knockback: 3
-	  lifetime: 2
+	  lifetime: 3
 	  bulletWidth: 3
 	  bulletHeight: 9
 	  backColor: 1000aa
 	  frontColor: 1000aa
-	  ammoMultiplier: 3
+	  ammoMultiplier: 9
   }
   thorium: {
-    damage: 15
+    damage: 45
 	  speed: 160
     hitEffect: blastExplosion
 	  knockback: 3
-	  lifetime: 2
+	  lifetime: 3
 	  bulletWidth: 3
 	  bulletHeight: 9
 	  backColor: aa0099
 	  frontColor: aa0099
-	  ammoMultiplier: 3
+	  ammoMultiplier: 9
+  }
+  metaglass: {
+    damage: 15
+	  speed: 160
+    hitEffect: blastExplosion
+	  knockback: 3
+          splashDamage: 15
+          splashDamageRadius: 80
+	  lifetime: 3
+	  bulletWidth: 3
+	  bulletHeight: 9
+	  backColor: aa0099
+	  frontColor: aa0099
+	  ammoMultiplier: 9
+          fragBullets: 10
+          fragBullet: glassFrag
   }
 }
 requirements: [
