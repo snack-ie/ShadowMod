@@ -1,6 +1,6 @@
 name: Aerial Obliterator
 description: A modified Aerial Eliminator with piercing bullets and high damage.
-type: itemTurret
+type: burstTurret
 health: 600
 size: 3
 reload: 90
@@ -14,6 +14,7 @@ restitution: 0.3
 cooldown: 0.006
 heatColor: ff0000
 shots: 5
+xRand: 8
 targetGround: false
 ammo: {
   s-charge: {
