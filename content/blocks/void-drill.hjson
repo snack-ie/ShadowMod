@@ -1,13 +1,13 @@
 type: drill
 name: Shadum Drill
 description: A powerfull drill maded with void.
-size: 4
+size: 5
 update: true
 tier: 8
 hasPower: true
 hasLiquids: true
 hasItems: true
-drillTime: 60
+drillTime: 120
 drawRim: true
 drawMineItem: true
 updateEffect: pulverizeMedium
@@ -20,6 +20,7 @@ consumes: {
     liquid: molten-shadum
     amount:0.3
     booster: true
+    optional: true
   }
 }
 requirements: [
