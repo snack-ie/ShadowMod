@@ -1,7 +1,7 @@
 name: Gleipnir Factory
 description: Makes Gleipnirs, stronger flyer units with powerfull snipers.
 type: UnitFactory
-unitType: dark-interceptor
+unitType: gleipnir
 size: 7
 produceTime: 6000
 maxSpawn: 2
