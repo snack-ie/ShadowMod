@@ -8,7 +8,7 @@ ammoUseEffect: shellEjectBig
 inaccuracy: 0
 rotatespeed: 99
 shootCone: 1
-range: 160
+range: 320
 recoil: 2
 restitution: 0.3
 cooldown: 0.006
@@ -22,7 +22,7 @@ ammo: {
 	  pierce: true
     hitEffect: blastExplosion
 	  knockback: 5
-	  lifetime: 2
+	  lifetime: 5
 	  bulletWidth: 3
 	  bulletHeight: 9
 	  backColor: 1000aa
@@ -37,7 +37,7 @@ ammo: {
 	  speed: 160
     hitEffect: blastExplosion
 	  knockback: 3
-	  lifetime: 2
+	  lifetime: 6
 	  bulletWidth: 3
 	  bulletHeight: 9
 	  backColor: ff7500
@@ -50,7 +50,7 @@ ammo: {
 	  speed: 160
     hitEffect: blastExplosion
 	  knockback: 3
-	  lifetime: 2
+	  lifetime: 5
 	  bulletWidth: 3
 	  bulletHeight: 9
 	  backColor: aa0099
