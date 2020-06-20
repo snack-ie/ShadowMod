@@ -1,0 +1,31 @@
+type: GenericSmelter
+name: Shadum Alloy Forge
+description: SAF nothing
+size: 3
+hasPower: true
+hasItems: true
+craftTime: 180
+itemCapacity: 100
+updateEffect: smeltsmoke
+consumes: {
+  power: 1.5
+  items: {
+    items: [
+      shadum-shards/50
+      surge-alloy/5
+      phase-fabric/1
+      shadum/25
+    ]
+  }
+}
+requirements: [
+  lead/100
+  titanium/150
+  silicon/50
+  surge-alloy/50
+]
+category: crafting
+research: shadum-melter
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: shadum-alloy

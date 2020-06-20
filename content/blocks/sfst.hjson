@@ -1,0 +1,33 @@
+type: itemTurret
+name: Fast Shadum Sniper
+description: An advanced sniper, reload faster than others anf have more range but with decreased damage.
+health: 1000
+category: turret
+size: 2
+hasLiquids: true
+requirements: [
+ shadum/50
+ shadum-alloy/20
+ surge-alloy/50
+]
+ammo: {
+ shadum-alloy: {
+   type: basicBulletType
+     lifetime: 250
+     damage: 15
+     speed: 30
+     fragBullets: 3
+     fragBullet: arc
+         }
+          pyratite: {
+   type: basicBulletType
+     lifetime: 250
+     damage: 15
+     speed: 30
+     status: burning
+         }
+}
+ammoPerShoot: 3
+range: 1200
+reload: 45
+research: sems
