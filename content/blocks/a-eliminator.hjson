@@ -21,7 +21,7 @@ ammo: {
 	  speed: 160
     hitEffect: blastExplosion
 	  knockback: 3
-	  lifetime: 2
+	  lifetime: 4
 	  bulletWidth: 3
 	  bulletHeight: 9
 	  backColor: ff7500
@@ -33,7 +33,7 @@ ammo: {
 	  speed: 160
     hitEffect: blastExplosion
 	  knockback: 3
-	  lifetime: 3
+	  lifetime: 6
 	  bulletWidth: 3
 	  bulletHeight: 9
 	  backColor: 1000aa
@@ -46,7 +46,7 @@ ammo: {
     hitEffect: blastExplosion
 	  knockback: 3
 	  lifetime: 3
-	  bulletWidth: 3
+	  bulletWidth: 6
 	  bulletHeight: 9
 	  backColor: aa0099
 	  frontColor: aa0099
@@ -59,7 +59,7 @@ ammo: {
 	  knockback: 3
           splashDamage: 15
           splashDamageRadius: 80
-	  lifetime: 3
+	  lifetime: 7
 	  bulletWidth: 3
 	  bulletHeight: 9
 	  backColor: aa0099
