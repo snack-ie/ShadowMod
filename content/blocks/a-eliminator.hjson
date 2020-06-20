@@ -18,10 +18,10 @@ targetGround: false
 ammo: {
   copper: {
     damage: 15
-	  speed: 160
+	  speed: 30
     hitEffect: blastExplosion
 	  knockback: 3
-	  lifetime: 2
+	  lifetime: 15
 	  bulletWidth: 3
 	  bulletHeight: 9
 	  backColor: ff7500
@@ -30,10 +30,10 @@ ammo: {
   }
     graphite: {
     damage: 30
-	  speed: 160
+	  speed: 30
     hitEffect: blastExplosion
 	  knockback: 3
-	  lifetime: 3
+	  lifetime: 18
 	  bulletWidth: 3
 	  bulletHeight: 9
 	  backColor: 1000aa
@@ -42,10 +42,10 @@ ammo: {
   }
   thorium: {
     damage: 45
-	  speed: 160
+	  speed: 30
     hitEffect: blastExplosion
 	  knockback: 3
-	  lifetime: 3
+	  lifetime: 18
 	  bulletWidth: 3
 	  bulletHeight: 9
 	  backColor: aa0099
@@ -59,7 +59,7 @@ ammo: {
 	  knockback: 3
           splashDamage: 15
           splashDamageRadius: 80
-	  lifetime: 3
+	  lifetime: 21
 	  bulletWidth: 3
 	  bulletHeight: 9
 	  backColor: aa0099
