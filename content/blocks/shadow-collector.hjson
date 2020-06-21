@@ -1,6 +1,6 @@
 type: GenericCrafter
 name: Shadow Collector
-description: Uses power to collect shadum shards from thin air
+description: Uses power to collect shadow particles from the atmosphere.
 size: 2
 hasPower: true
 hasItems: true
@@ -15,7 +15,6 @@ requirements: [
   lead/60
   silicon/40
   titanium/20
-  phase-fabric/30
 ]
 category: production
 research: oil-extractor
