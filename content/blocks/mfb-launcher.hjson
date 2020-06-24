@@ -16,19 +16,19 @@
       "type": "ArtilleryBulletType",
       "frontColor": "a488eb",
       "backColor": "a488eb",
-      "damage": 99,
+      "damage": 150,
       "bulletWidth": 12,
       "bulletHeight": 12,
       "speed": 2.5,
       "incendAmount": 5,
       "splashDamage": 5,
-      "splashDamageRadius": 100
+      "splashDamageRadius": 80
    "fragBullets": 100,
    fragBullet:{
 		 "type": "BasicBulletType",
 		"speed": 4,
-		"splashDamage": 3,
-		"splashDamageRadius": 160,
+		"splashDamage": 1,
+		"splashDamageRadius": 80,
                 "incendAmount": 5
 		"lifetime": 30,
 		"collides": "false"
@@ -36,11 +36,11 @@
     }
   },
   "requirements": [
-    { "item": "phase-fabric", "amount": 50 },
+    { "item": "silicon", "amount": 50 },
     { "item": "plastanium", "amount": 80 },
     { "item": "graphite", "amount": 50 },
     { "item": "shadum-alloy", "amount": 130 }
   ],
   "category": "turret",
-  "research": "cyclone"
+  "research": "shad-hail"
 }
