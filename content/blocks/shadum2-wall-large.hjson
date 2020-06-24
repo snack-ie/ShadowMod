@@ -1,0 +1,10 @@
+type: wall
+category: defense
+name: Large Reinforced Alloy wall
+description: Large version of reinforced alloy wall.
+health: 4200
+size: 2
+research: shadum2-wall
+requirements: [
+ shadum-alloy/30
+]

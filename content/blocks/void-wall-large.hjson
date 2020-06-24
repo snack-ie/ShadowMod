@@ -1,0 +1,10 @@
+type: wall
+category: defense
+name: Large Shadum wall
+description: A resistant large wall made out of Void.
+health: 6000
+size: 2
+research: void-wall
+requirements: [
+ void/24
+]

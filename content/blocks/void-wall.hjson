@@ -1,0 +1,9 @@
+type: wall
+category: defense
+name: Void Wall
+description: A resistant wall made out of Void.
+health: 1500
+research: shadum2-wall
+requirements: [
+ void/6
+]

@@ -1,0 +1,9 @@
+type: surgeWall
+category: defense
+name: Reinforced Alloy Wall
+description: An advanced wall maded of shadum alloy, can release lightnings.
+health: 1000
+research: shadum-wall
+requirements: [
+ shadum-alloy/12
+]

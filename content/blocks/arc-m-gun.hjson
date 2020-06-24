@@ -1,0 +1,24 @@
+  type: PowerTurret
+  name: Arc Machine-Gun
+  description: Shoots a lot of sequencial arcs.
+  shootType: arc
+  reload: 15
+  shots: 20
+  shootCone: 40
+  powerUse: 3
+  targetAir: false
+  range: 150
+  shootEffect: lightningShoot
+  heatColor: ff0000
+  recoil: 0.5
+  size: 1
+  health: 100
+  shootSound: spark
+  requirements: [
+    titanium/100
+    lead/200
+    silicon/75
+    graphite/50
+  ]
+  category: turret
+  research: arc
