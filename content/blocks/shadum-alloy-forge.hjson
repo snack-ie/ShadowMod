@@ -11,10 +11,10 @@ consumes: {
   power: 1.5
   items: {
     items: [
-      shadum-shards/50
-      surge-alloy/5
-      phase-fabric/1
-      shadum/25
+      shadum-shards/5
+      surge-alloy/1
+      shadum/10
+      titanium/5
     ]
   }
 }
@@ -22,10 +22,10 @@ requirements: [
   lead/100
   titanium/150
   silicon/50
-  surge-alloy/50
+  surge-alloy/30
 ]
 category: crafting
 research: shadum-melter
 idleSound: respawning
 idleSoundVolume: 0.5
-outputItem: shadum-alloy
+outputItem: shadum-alloy/15
