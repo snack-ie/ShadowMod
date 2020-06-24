@@ -1,6 +1,6 @@
 type: itemTurret
 name: Fast Shadum Sniper
-description: An advanced sniper, reload faster than others anf have more range but with decreased damage.
+description: An advanced sniper, reload faster than others, have more range but with decreased damage.
 health: 1000
 category: turret
 size: 2
@@ -28,6 +28,6 @@ ammo: {
          }
 }
 ammoPerShoot: 3
-range: 1200
+range: 3600
 reload: 45
 research: sems
