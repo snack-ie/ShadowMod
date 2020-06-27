@@ -1,0 +1,12 @@
+type: armoredConveyor
+name: Armored Shadum Conveyor
+description: A fast and well armored conveyor made out of shadum-alloy. Works how the normal armored conveyor.
+requirements: [
+  titanium/3
+  graphite/3
+  shadum-alloy/1
+]
+health: 1200
+category: distribution
+speed: 0.24
+research: shadum-conveyor

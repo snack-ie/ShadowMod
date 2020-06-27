@@ -1,0 +1,12 @@
+type: Conveyor
+name: Void Conveyor
+description: A fast and well armored conveyor made out of void. Works how the normal conveyor.
+requirements: [
+  titanium/3
+  graphite/3
+  void/1
+]
+health: 1500
+category: distribution
+speed: 0.48
+research: alloy-conveyor

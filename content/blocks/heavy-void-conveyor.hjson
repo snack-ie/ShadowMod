@@ -1,0 +1,12 @@
+type: armoredConveyor
+name: Heavy Armored Conveyor
+description: A conveyor made out of void. Extreme fast and armored. Works how the normal armored conveyor.
+requirements: [
+  titanium/3
+  surge-alloy/3
+  void-c/1
+]
+health: 2000
+category: distribution
+speed: 100
+research: void-conveyor
