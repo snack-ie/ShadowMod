@@ -1,0 +1,13 @@
+type: router
+name: Shadum distributor
+description: Bigger distributor maded of shadum.
+requirements: [
+  titanium/3
+  graphite/3
+  shadum/3
+]
+size: 3
+speed: 0.24
+health: 1200
+category: distribution
+research: shadum-router

@@ -1,0 +1,13 @@
+type: router
+name: Heavy Shadum Distributor
+description: Bigger, faster and stronger version of shadum distributor.
+requirements: [
+  thorium/3
+  graphite/3
+  shadum-alloy/3
+]
+size: 4
+speed: 0.50
+health: 1200
+category: distribution
+research: shadum-distributor

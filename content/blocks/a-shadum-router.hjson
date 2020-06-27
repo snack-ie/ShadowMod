@@ -1,0 +1,12 @@
+type: router
+name: Reinforced Router
+description: Heavy armored and faster router maded of shadum alloy.
+requirements: [
+  titanium/3
+  graphite/3
+  shadum-alloy/1
+]
+speed: 0.48
+health: 1200
+category: distribution
+research: shadum-router

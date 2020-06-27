@@ -1,0 +1,12 @@
+type: router
+name: Shadum Router
+description: Faster router maded of shadum.
+requirements: [
+  titanium/3
+  graphite/3
+  shadum/3
+]
+speed: 0.24
+health: 120
+category: distribution
+research: router
