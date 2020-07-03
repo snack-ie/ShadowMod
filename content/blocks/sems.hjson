@@ -3,7 +3,7 @@ name: S.E.M.S
 description: Shadum EletroMagnetic Sniper. A upgrade of the shadum sniper with high damage.
 health: 1300
 category: turret
-size: 3
+size: 4
 hasLiquids: true
 requirements: [
  shadum-alloy/50
