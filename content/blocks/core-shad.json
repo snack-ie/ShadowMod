@@ -2,16 +2,16 @@
 	"name": "Shadowned Core",
 	"description": "Shadowned Core",
 	"type": "CoreBlock",
-	"health": 3000,
-	"breakable": false,
+	"health": 6000,
+	"breakable": true,
 	"destructible": true,
 	"size": 6,
 	"itemCapacity": 21000,
-	"unloadable": false,
+	"unloadable": true,
 	"requirements": [
 	    {
 			"item": "shadum-alloy",
-			"amount": 750
+			"amount": 1300
 		},
 		{
 			"item": "surge-alloy",
@@ -22,6 +22,6 @@
 			"amount": 400
 		}
 	],
-	"buildVisibility": "hidden",
   "category": "effect",
 }
+research: shadum-vault
