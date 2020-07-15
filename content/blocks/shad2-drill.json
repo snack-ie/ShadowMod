@@ -1,6 +1,6 @@
 type: drill
-name: Shadum Drill
-description: A drill that use burning molten shadum to drill a unknow ore
+name: Advanced Shadum Drill
+description: A drill that use burning molten shadum to drill harder ores.
 size: 3
 update: true
 tier: 6
@@ -13,7 +13,7 @@ drawMineItem: true
 updateEffect: pulverizeMedium
 drillEffect: mineBig
 heatColor: ff8000
-liquidBoostIntensity: 1
+liquidBoostIntensity: 2
 consumes: {
   power: 2
   liquid: {
