@@ -60,7 +60,7 @@ ammo: {
   }
 }
 requirements: [
-  surge-alloy/50
+  surge-alloy/150
   thorium/100
   titanium/150
   graphite/30
