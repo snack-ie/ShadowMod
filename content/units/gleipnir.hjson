@@ -31,8 +31,9 @@
 		"type": "basicBulletType",
       "bulletWidth": 16,
       "speed": 10,
-      "splashDamage": 1000,
-      "splashDamageRadius": 25
+      "splashDamage": 500,
+      "splashDamageRadius": 25,
+      "damage": 3000,
       "bulletHeight": 24,
       "drag": -0.002,
       "lifetime": 260,
