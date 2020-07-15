@@ -11,7 +11,7 @@
   "recoil": 3,
   "shootShake": 2,
   "burstSpacing": 1,
-  "shots": 5,
+  "shots": 13,
   "ammoUseEffect": "shellEjectBig",
   "health": 500,
   "shootSound": "shootBig",
@@ -84,7 +84,7 @@
 		{ "item": "copper", "amount": 120 },
     { "item": "graphite", "amount": 100 },
     { "item": "titanium", "amount": 80 },
-    { "item": "shadum-alloy", "amount": 20 },
+    { "item": "shadum-alloy", "amount": 50 },
 	],
   "category": "turret",
   "research": "salvo"
