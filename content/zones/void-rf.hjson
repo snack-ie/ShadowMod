@@ -16,7 +16,7 @@ requirements: [
   }
   {
     type: Unlock
-    block: v-estabulizer
+    block: v-estabilizer
   }
   {
     type: Unlock
