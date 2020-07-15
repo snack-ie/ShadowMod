@@ -1,0 +1,35 @@
+name: Void Research Facility
+description: After the incident of a meteor crash landed in a coast, word spread among the planet regarding a huge stash of Void Crystal being studied by some rogue scientists, the enemy was trying to retrieve but they put up a decent fight, defend yourselves while destroy the scientist's hideout.
+loadout: basicNucleus
+startingItems: [
+  copper/500
+  lead/300
+  graphite/100
+]
+conditionWave: 50
+launchPeriod: 20
+requirements: [
+  {
+    type: ZoneWave
+    zone: dis-base
+    wave: 40
+  }
+  {
+    type: Unlock
+    block: v-estabulizer
+  }
+  {
+    type: Unlock
+    block: shadow-fracker
+  }
+]
+resources: [
+  copper
+  lead
+  coal
+  sand
+  titanium
+  thorium
+  shadum
+  void
+]
