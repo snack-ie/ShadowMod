@@ -9,7 +9,7 @@ hasLiquids: true
 hasItems: true
 drillTime: 120
 drawRim: true
-drawMineItem: true
+drawMineItem: false
 updateEffect: pulverizeMedium
 drillEffect: mineBig
 heatColor: ff8000
@@ -17,7 +17,7 @@ liquidBoostIntensity: 3
 consumes: {
   power: 3
   liquid: {
-    liquid: molten-shadum
+    liquid: shadow-coolant
     amount:0.3
     booster: true
     optional: true
