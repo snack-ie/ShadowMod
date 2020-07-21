@@ -15,7 +15,7 @@ requirements: [
 ammo: {
  shadum-alloy: {
    type: basicBulletType
-     lifetime: 500
+     lifetime: 20
      damage: 600
      speed: 30
      splashDamageRadius: 1
@@ -24,7 +24,7 @@ ammo: {
          }
  shadum: {
    type: basicBulletType
-     lifetime: 500
+     lifetime: 20
      damage: 300
      speed: 30
      splashDamageRadius: 1
@@ -33,6 +33,6 @@ ammo: {
          }
 }
 ammoPerShoot: 3
-range: 640
-reload: 180
+range: 440
+reload: 360
 research: shadum-sniper
