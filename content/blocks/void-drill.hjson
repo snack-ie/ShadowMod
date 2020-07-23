@@ -1,6 +1,6 @@
 type: drill
 name: Void Drill
-description: A powerfull drill maded with void.
+description: A powerfull drill maded with void crystals, can mine in high speeds.
 size: 5
 update: true
 tier: 8
