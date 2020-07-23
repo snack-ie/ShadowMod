@@ -2,7 +2,7 @@
   name: Arc Machine-Gun
   description: Shoots a lot of sequencial arcs.
   shootType: arc
-  reload: 15
+  reload: 60
   shots: 20
   shootCone: 40
   powerUse: 3
