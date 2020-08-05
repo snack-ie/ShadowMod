@@ -12,11 +12,6 @@ conditionWave: 10
 launchPeriod: 10
 requirements: [
   {
-    type: ZoneWave
-    zone: shad-pro-complex
-    wave: 20
-  }
-  {
     type: Unlock
     block: shadum-sniper
   }
