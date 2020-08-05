@@ -25,6 +25,11 @@ requirements: [
     block: shad2-drill
   }
 ]
+configureObjective: {
+   type: Launched
+   zone: dis-base
+}
+
 resources: [
   copper
   lead
