@@ -13,15 +13,15 @@ launchPeriod: 10
 requirements: [
   {
     type: launched
-    zone: shad-pro-complex
+    zone: "shad-pro-complex"
   }
   {
-    type: Unlock
-    block: shadum-sniper
+    type: unlock
+    block: "shadum-sniper"
   }
   {
-    type: Unlock
-    block: shad2-drill
+    type: unlock
+    block: "shad2-drill"
   }
 ]
 
