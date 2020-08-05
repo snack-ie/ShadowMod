@@ -10,9 +10,8 @@ conditionWave: 50
 launchPeriod: 20
 requirements: [
   {
-    type: ZoneWave
+    type: Launched
     zone: dis-base
-    wave: 40
   }
   {
     type: Unlock
