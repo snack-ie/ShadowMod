@@ -15,6 +15,7 @@ requirements: [
     type: launched
     zone: shad-pro-complex
   }
+  {
     type: Unlock
     block: shadum-sniper
   }
