@@ -4,7 +4,7 @@
 `ShadowMod` add plenty of things to your game. Including turrets, units, blocks, resources and etc.
 ### Resources
 
-#### ![Shadum](https://raw.githubusercontent.com/Pietro303HD/ShadowMod/JsDebug/sprites/items/shadum.png) 
+#### ![Shadum](https://raw.githubusercontent.com/Pietro303HD/ShadowMod/JsDebug/sprites/items/shadum.png) Shadum 
 
 `Shadum` is the principal resource you will have in your journey
 ## Translating 
