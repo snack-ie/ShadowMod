@@ -1,0 +1,19 @@
+type: drill
+name: precision drill
+description: a drill made to acess hard places.
+size: 1
+update: true
+tier: 2
+hasPower: true
+hasItems: true
+drillTime: 960
+updateEffect: pulverizeMedium
+drillEffect: mineBig
+consumes: {}
+requirements: [
+  copper/12
+  shadum/5
+  lead/10
+]
+category: production
+research: shad2-drill
