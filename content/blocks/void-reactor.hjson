@@ -12,7 +12,7 @@ itemDuration: 300
 explosionRadius: 80
 explosionDamage: 10000
 plasmas: 4
-powerProduction: 382.33
+powerProduction: 1282.33
 consumes: {
   power: 30
   items: {
