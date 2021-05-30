@@ -1,5 +1,0 @@
-type: resource
-name: Radioctive Charge
-description: A capsule with radioctive power, used how energy source or to craft VOID
-color: cc00ff
-radioactivity: 10

@@ -1,8 +1,0 @@
-name: Shadow Coolant
-description: A coolant with power of the shadow
-temperature: 0.2
-heatCapacity: 1.4
-viscosity: 0.6
-effect: melting
-color: 8278cc
-lightColor: 8278cc
