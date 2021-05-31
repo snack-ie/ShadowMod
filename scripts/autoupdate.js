@@ -1,6 +1,6 @@
 const autoUpdate = (name, repo, branch) => {
     
-    var modLocal = Vars.mods.locateMod(name).meta;
+    var modLocal = Vars.mods.locateMod(name);
     
     Events.on(ClientLoadEvent, () => {
         if(!Core.settings.getBool("mod." + name + ".autoupdate-disabled")){
